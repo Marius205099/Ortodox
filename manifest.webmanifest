@@ -1,0 +1,16 @@
+{
+  "name": "Ortodox · Calendar creștin ortodox",
+  "short_name": "Ortodox",
+  "description": "Calendarul ortodox al Patriarhiei Române, cu notificare la 20:00 pentru ziua de mâine.",
+  "lang": "ro",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f1e6",
+  "theme_color": "#7a1a1f",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

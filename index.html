@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="ro">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Ortodox · Calendar creștin ortodox</title>
+  <meta name="description" content="Calendarul creștin ortodox al Patriarhiei Române: sfinții zilei, Apostolul, Evanghelia și notificare în fiecare seară la 20:00 despre ziua de mâine.">
+  <meta name="theme-color" content="#7a1a1f">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Ortodox">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap top-inner">
+      <a class="brand" href="./">
+        <img src="icons/icon.svg" alt="" width="34" height="34">
+        <span>Ortodox</span>
+      </a>
+      <button id="bell" class="bell" type="button" aria-label="Notificări">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path fill="currentColor" d="M12 22a2.5 2.5 0 0 0 2.45-2h-4.9A2.5 2.5 0 0 0 12 22Zm7-6V11a7 7 0 0 0-5.5-6.84V3.5a1.5 1.5 0 0 0-3 0v.66A7 7 0 0 0 5 11v5l-2 2v1h18v-1l-2-2Z"/></svg>
+        <span id="bell-label">Notificări 20:00</span>
+      </button>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="pair" aria-label="Azi și mâine">
+      <button class="mini" id="mini-today" type="button"></button>
+      <button class="mini tomorrow" id="mini-tomorrow" type="button"></button>
+    </section>
+
+    <nav class="daynav" aria-label="Alege ziua">
+      <button id="prev" type="button" aria-label="Ziua precedentă">‹</button>
+      <label class="picker">
+        <span id="nav-label"></span>
+        <input id="date" type="date" aria-label="Alege data">
+      </label>
+      <button id="next" type="button" aria-label="Ziua următoare">›</button>
+    </nav>
+
+    <article id="day" class="day" aria-live="polite">
+      <p class="muted">Se încarcă calendarul…</p>
+    </article>
+
+    <section id="notif" class="panel">
+      <h2>Notificare în fiecare seară la 20:00</h2>
+      <p class="muted">Primești la ora 20:00 ce sărbătoare este mâine. Alege una dintre variante (sau mai multe).</p>
+
+      <div class="opt">
+        <h3><span class="num">1</span> Pe telefon, prin aplicația ntfy <em class="tag">recomandat</em></h3>
+        <p>Funcționează chiar dacă site-ul e închis. Notificarea pleacă automat în fiecare zi la 20:00.</p>
+        <ol>
+          <li>Instalează aplicația gratuită <strong>ntfy</strong>:
+            <a href="https://play.google.com/store/apps/details?id=io.heckel.ntfy" target="_blank" rel="noopener">Android</a> ·
+            <a href="https://apps.apple.com/app/ntfy/id1625396347" target="_blank" rel="noopener">iPhone</a></li>
+          <li>Apasă <strong>+</strong> și abonează-te la subiectul:
+            <span class="topic"><code id="topic"></code><button id="copy-topic" type="button">Copiază</button></span></li>
+        </ol>
+        <p class="small">Pe calculator: <a id="ntfy-web" target="_blank" rel="noopener">deschide în browser</a> și permite notificările.</p>
+      </div>
+
+      <div class="opt">
+        <h3><span class="num">2</span> În acest browser</h3>
+        <p>Primești notificarea la 20:00 cât timp site-ul e deschis (sau instalat ca aplicație pe Android/calculator). Dacă îl deschizi mai târziu în seară, o primești atunci.</p>
+        <button id="enable" class="btn" type="button">Activează notificările</button>
+        <button id="test" class="btn ghost" type="button" hidden>Trimite un test</button>
+        <p id="enable-status" class="small" role="status"></p>
+      </div>
+
+      <div class="opt">
+        <h3><span class="num">3</span> În calendarul telefonului</h3>
+        <p>Abonează-te la calendar: fiecare zi apare ca eveniment, cu memento la 20:00 în seara dinainte.</p>
+        <a id="ics" class="btn ghost" href="data/ortodox.ics">Abonează-te la calendar</a>
+        <p class="small">Pe iPhone, la abonare, debifează „Elimină alertele” ca să păstrezi mementoul. Google Calendar ignoră alertele calendarelor abonate.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap foot">
+    <p>Date preluate automat de pe <a href="https://calendar.patriarhia.ro/" target="_blank" rel="noopener">calendar.patriarhia.ro</a> (Calendarul oficial al Patriarhiei Române). Site neoficial.</p>
+    <p id="updated" class="small"></p>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

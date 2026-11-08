@@ -1,0 +1,2211 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ortodox//Calendar//RO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar Ortodox
+X-WR-TIMEZONE:Europe/Bucharest
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+BEGIN:VEVENT
+UID:20260909@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Sf. și Drepții dumnezeiești Părinți Ioachim și Ana\; †) Sf
+ . Cuv. Chiriac de la Tazlău \; †) Sf. Cuv. Onufrie de la Vorona \; Sf. 
+ Mc. Severian\; Sf. Părinți de la Sinodul al III-lea Ecumenic
+DESCRIPTION:Sf. și Drepții dumnezeiești Părinți Ioachim și Ana\; †
+ ) Sf. Cuv. Chiriac de la Tazlău \; †) Sf. Cuv. Onufrie de la Vorona \; 
+ Sf. Mc. Severian\; Sf. Părinți de la Sinodul al III-lea Ecumenic\nAposto
+ lul: Ap. Galateni 3\, 15-22\nEvanghelia: Ev. Marcu 6\, 7-13\nhttps://mariu
+ s205099.github.io/Ortodox/?d=20260909
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. și Drepții dumnezeiești Părinți Ioachim și A
+ na\; †) Sf. Cuv. Chiriac de la Tazlău \; †) Sf. Cuv. Onufrie de la Vo
+ rona \; Sf. Mc. Severian\; Sf. Părinți de la Sinodul al III-lea Ecumenic
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Sf. Mc. Minodora\, Mitrodora şi Nimfodora\; Sf. Împărăteasă P
+ ulheria
+DESCRIPTION:Sf. Mc. Minodora\, Mitrodora şi Nimfodora\; Sf. Împărăteas
+ ă Pulheria\nApostolul: Ap. Galateni 3\, 23-29\; 4\, 1-5\nEvanghelia: Ev. 
+ Marcu 6\, 30-45\nhttps://marius205099.github.io/Ortodox/?d=20260910
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Mc. Minodora\, Mitrodora şi Nimfodora\; Sf. Împ
+ ărăteasă Pulheria
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Sf. Cuv. Teodora din Alexandria\; Sf. Cuv. Eufrosin bucătarul
+DESCRIPTION:Sf. Cuv. Teodora din Alexandria\; Sf. Cuv. Eufrosin bucătarul
+ \nApostolul: Ap. Galateni 4\, 8-21\nEvanghelia: Ev. Marcu 6\, 45-53\nhttps
+ ://marius205099.github.io/Ortodox/?d=20260911
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Cuv. Teodora din Alexandria\; Sf. Cuv. Eufrosin bu
+ cătarul
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260912@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:Odovania praznicului Nașterii Maicii Domnului \; Sf. Mc. Avtonom\
+ , Macedonie și Teodul
+DESCRIPTION:Odovania praznicului Nașterii Maicii Domnului \; Sf. Mc. Avto
+ nom\, Macedonie și Teodul\nApostolul: Ap. I Corinteni 4\, 17-21\; 5\, 1-5
+ \nEvanghelia: Ev. Matei 24\, 1-13\nhttps://marius205099.github.io/Ortodox/
+ ?d=20260912
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Odovania praznicului Nașterii Maicii Domnului \; Sf. 
+ Mc. Avtonom\, Macedonie și Teodul
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260913@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:† Înainte-prăznuirea Înălţării Sfintei Cruci\; † Târnos
+ irea bisericii Învierii din Ierusalim\; †) Sf. Cuv. Ioan de la Prislop\
+ ; † Sf. Mc. din Dobrogea: Macrobie\, Gordian\, Ilie\, Zotic\, Lucian şi
+  Valerian\; Sf. Mc. Corneliu Sutaşul\; Sf. Sfințit M
+DESCRIPTION:Înainte-prăznuirea Înălţării Sfintei Cruci\; † Târnos
+ irea bisericii Învierii din Ierusalim\; †) Sf. Cuv. Ioan de la Prislop\
+ ; † Sf. Mc. din Dobrogea: Macrobie\, Gordian\, Ilie\, Zotic\, Lucian şi
+  Valerian\; Sf. Mc. Corneliu Sutaşul\; Sf. Sfințit Mc. Ciprian\, episcop
+ ul Cartaginei\; Duminica dinaintea Înălţării Sfintei Cruci\; Ap. Galat
+ eni 6\, 11-18\; Ev. Ioan 3\, 13-17 (Convorbirea lui Iisus cu Nicodim)\; gl
+ as 6\, voscr. 4\nApostolul: Ap. Galateni 6\, 11-18\nEvanghelia: Ev. Ioan 3
+ \, 13-17\nhttps://marius205099.github.io/Ortodox/?d=20260913
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Înainte-prăznuirea Înălţării Sfintei Cruci\; †
+  Târnosirea bisericii Învierii din Ierusalim\; †) Sf. Cuv. Ioan de la 
+ Prislop\; † Sf. Mc. din Dobrogea: Macrobie\, Gordian\, Ilie\, Zotic\, Lu
+ cian şi Valerian\; S
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260914@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:† (†) Înălțarea Sfintei Cruci (Post)
+DESCRIPTION:(†) Înălțarea Sfintei Cruci (Post)\nApostolul: Ap. I Cori
+ nteni 1\, 18-24\nEvanghelia: Ev. Ioan 19\, 6-11\, 13-20\, 25-28\, 30-35\nh
+ ttps://marius205099.github.io/Ortodox/?d=20260914
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: (†) Înălțarea Sfintei Cruci (Post)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260915@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:† ) Sf. Ier. Iosif cel Nou de la Partoș \, mitropolitul Banatul
+ ui \; † Sf. Mare Mc. Nichita \; † Sf. Ier. Visarion\, arhiepiscopul La
+ risei
+DESCRIPTION:† ) Sf. Ier. Iosif cel Nou de la Partoș \, mitropolitul Ban
+ atului \; † Sf. Mare Mc. Nichita \; † Sf. Ier. Visarion\, arhiepiscopu
+ l Larisei\nApostolul: Ap. Galateni 5\, 11-21\nEvanghelia: Ev. Marcu 7\, 5-
+ 16\nhttps://marius205099.github.io/Ortodox/?d=20260915
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: † ) Sf. Ier. Iosif cel Nou de la Partoș \, mitropol
+ itul Banatului \; † Sf. Mare Mc. Nichita \; † Sf. Ier. Visarion\, arhi
+ episcopul Larisei
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260916@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:†) Sf. Cuv. Mărturisitor Sofian de la Antim \; Sf. Mare Mc. Euf
+ imia\; Sf. Mc. Meletina și Ludmila
+DESCRIPTION:†) Sf. Cuv. Mărturisitor Sofian de la Antim \; Sf. Mare Mc.
+  Eufimia\; Sf. Mc. Meletina și Ludmila\nApostolul: Ap. Galateni 6\, 2-10\
+ nEvanghelia: Ev. Marcu 7\, 14-24\nhttps://marius205099.github.io/Ortodox/?
+ d=20260916
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Cuv. Mărturisitor Sofian de la Antim \; Sf. 
+ Mare Mc. Eufimia\; Sf. Mc. Meletina și Ludmila
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260917@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:† ) Sf. Ier. Dionisie \, episcopul Cetății Albe – Ismail \; 
+ Sf. Mc. Sofia (Înțelepciunea) și fiicele ei: Pistis (Credința) \, Elpi
+ s (Nădejdea) și Agapi (Dragostea)
+DESCRIPTION:† ) Sf. Ier. Dionisie \, episcopul Cetății Albe – Ismail
+  \; Sf. Mc. Sofia (Înțelepciunea) și fiicele ei: Pistis (Credința) \, 
+ Elpis (Nădejdea) și Agapi (Dragostea)\nApostolul: Ap. Efeseni 1\, 1-9\nE
+ vanghelia: Ev. Marcu 7\, 24-30\nhttps://marius205099.github.io/Ortodox/?d=
+ 20260917
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: † ) Sf. Ier. Dionisie \, episcopul Cetății Albe 
+ – Ismail \; Sf. Mc. Sofia (Înțelepciunea) și fiicele ei: Pistis (Cred
+ ința) \, Elpis (Nădejdea) și Agapi (Dragostea)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260918@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:†) Sf. Preot Mucenic Ilarion Felea \; Sf. Ier. Eumenie\, episcop
+ ul Gortinei\; Sf. Mc. Ariadna
+DESCRIPTION:†) Sf. Preot Mucenic Ilarion Felea \; Sf. Ier. Eumenie\, epi
+ scopul Gortinei\; Sf. Mc. Ariadna\nApostolul: Ap. Efeseni 1\, 7-17\nEvangh
+ elia: Ev. Marcu 8\, 1-10\nhttps://marius205099.github.io/Ortodox/?d=202609
+ 18
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Preot Mucenic Ilarion Felea \; Sf. Ier. Eumen
+ ie\, episcopul Gortinei\; Sf. Mc. Ariadna
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260919@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:Sf. Mc. Trofim\, Savatie și Dorimedont
+DESCRIPTION:Sf. Mc. Trofim\, Savatie și Dorimedont\nApostolul: Ap. I Cori
+ nteni 10\, 23-28\nEvanghelia: Ev. Matei 24\, 34-44\nhttps://marius205099.g
+ ithub.io/Ortodox/?d=20260919
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Mc. Trofim\, Savatie și Dorimedont
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260920@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:† Sf. Mari Mc. Eustație şi soţia sa\, Teopista\, cu cei doi f
+ ii ai lor: Agapie şi Teopist\; Duminica după Înălţarea Sfintei Cruci\
+ ; Ap. Galateni 2\, 16-20\; Ev. Marcu 8\, 34-38\; 9\, 1 (Luarea crucii şi 
+ urmarea lui Hristos)\; glas 7\, voscr. 5
+DESCRIPTION:Sf. Mari Mc. Eustație şi soţia sa\, Teopista\, cu cei doi f
+ ii ai lor: Agapie şi Teopist\; Duminica după Înălţarea Sfintei Cruci\
+ ; Ap. Galateni 2\, 16-20\; Ev. Marcu 8\, 34-38\; 9\, 1 (Luarea crucii şi 
+ urmarea lui Hristos)\; glas 7\, voscr. 5\nApostolul: Ap. Galateni 2\, 16-2
+ 0\nEvanghelia: Ev. Marcu 8\, 34-38\; 9\, 1\nhttps://marius205099.github.io
+ /Ortodox/?d=20260920
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Mari Mc. Eustație şi soţia sa\, Teopista\, cu c
+ ei doi fii ai lor: Agapie şi Teopist\; Duminica după Înălţarea Sfinte
+ i Cruci\; Ap. Galateni 2\, 16-20\; Ev. Marcu 8\, 34-38\; 9\, 1 (Luarea cru
+ cii şi urmarea 
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260921@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Odovania praznicului Înălțării Sfintei Cruci \; Sf. Ap. Codrat
+ \; Sf. Proroc Iona
+DESCRIPTION:Odovania praznicului Înălțării Sfintei Cruci \; Sf. Ap. Co
+ drat\; Sf. Proroc Iona\nApostolul: Ap. Efeseni 1\, 22-23\; 2\, 1-5\nEvangh
+ elia: Ev. Marcu 10\, 46-52\nhttps://marius205099.github.io/Ortodox/?d=2026
+ 0921
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Odovania praznicului Înălțării Sfintei Cruci \; Sf
+ . Ap. Codrat\; Sf. Proroc Iona
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260922@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:†) Sf. Ierarh Mc. Teodosie de la Mănăstirea Brazi\, mitropolit
+ ul Moldovei \; Sf. Sfințit Mc. Foca\, episcop de Sinope
+DESCRIPTION:†) Sf. Ierarh Mc. Teodosie de la Mănăstirea Brazi\, mitrop
+ olitul Moldovei \; Sf. Sfințit Mc. Foca\, episcop de Sinope\nApostolul: A
+ p. Efeseni 2\, 19-22\; 3\, 1-7\nEvanghelia: Ev. Marcu 11\, 11-23\nhttps://
+ marius205099.github.io/Ortodox/?d=20260922
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Ierarh Mc. Teodosie de la Mănăstirea Brazi\
+ , mitropolitul Moldovei \; Sf. Sfințit Mc. Foca\, episcop de Sinope
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260923@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Zămislirea Sf. Proroc Ioan Botezătorul\; Sf. Xantipa și Polixen
+ ia
+DESCRIPTION:Zămislirea Sf. Proroc Ioan Botezătorul\; Sf. Xantipa și Pol
+ ixenia\nApostolul: Ap. Efeseni 3\, 8-21\nEvanghelia: Ev. Marcu 11\, 22-26\
+ nhttps://marius205099.github.io/Ortodox/?d=20260923
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Zămislirea Sf. Proroc Ioan Botezătorul\; Sf. Xantipa
+  și Polixenia
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260924@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Sf. întâia Muceniță și întocmai cu Apostolii Tecla\; Sf. Cuv
+ . Siluan Athonitul
+DESCRIPTION:Sf. întâia Muceniță și întocmai cu Apostolii Tecla\; Sf.
+  Cuv. Siluan Athonitul\nApostolul: Ap. Efeseni 4\, 14-17\nEvanghelia: Ev. 
+ Marcu 11\, 27-33\nhttps://marius205099.github.io/Ortodox/?d=20260924
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. întâia Muceniță și întocmai cu Apostolii Tec
+ la\; Sf. Cuv. Siluan Athonitul
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260925@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Sf. Cuv. Eufrosina\; Sf. Cuv. Pafnutie Egipteanul\; Sf. Cuv. Sergh
+ ie de la Radonej
+DESCRIPTION:Sf. Cuv. Eufrosina\; Sf. Cuv. Pafnutie Egipteanul\; Sf. Cuv. S
+ erghie de la Radonej\nApostolul: Ap. Efeseni 4\, 17-25\nEvanghelia: Ev. Ma
+ rcu 12\, 1-12\nhttps://marius205099.github.io/Ortodox/?d=20260925
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Cuv. Eufrosina\; Sf. Cuv. Pafnutie Egipteanul\; Sf
+ . Cuv. Serghie de la Radonej
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260926@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:†) Mutarea Sf. Ap. şi Evanghelist Ioan\; †) Sf. Voievod Neago
+ e Basarab\; Sf. Cuv. Platonida de la Argeș (fosta Despina Milița\, soți
+ a Voievodului)\; Dreptul Ghedeon
+DESCRIPTION:†) Mutarea Sf. Ap. şi Evanghelist Ioan\; †) Sf. Voievod N
+ eagoe Basarab\; Sf. Cuv. Platonida de la Argeș (fosta Despina Milița\, s
+ oția Voievodului)\; Dreptul Ghedeon\nApostolul: Ap. I Corinteni 14\, 20-2
+ 5\nEvanghelia: Ev. Matei 25\, 1-13\nhttps://marius205099.github.io/Ortodox
+ /?d=20260926
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Mutarea Sf. Ap. şi Evanghelist Ioan\; †) Sf. V
+ oievod Neagoe Basarab\; Sf. Cuv. Platonida de la Argeș (fosta Despina Mil
+ ița\, soția Voievodului)\; Dreptul Ghedeon
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260927@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:† †) Sf. Ier. Martir Antim Ivireanul\, mitropolitul Ţării Ro
+ mâneşti\; Sf. Mc. Calistrat şi Epiharia\; Duminica a 18-a după Rusalii
+ \; Ap. 2 Corinteni 9\, 6-11\; Ev. Luca 5\, 1-11 (Pescuirea minunată)\; gl
+ as 8\, voscr. 6
+DESCRIPTION:†) Sf. Ier. Martir Antim Ivireanul\, mitropolitul Ţării Ro
+ mâneşti\; Sf. Mc. Calistrat şi Epiharia\; Duminica a 18-a după Rusalii
+ \; Ap. 2 Corinteni 9\, 6-11\; Ev. Luca 5\, 1-11 (Pescuirea minunată)\; gl
+ as 8\, voscr. 6\nApostolul: Ap. II Corinteni 9\, 6-11\nEvanghelia: Ev. Luc
+ a 5\, 1-11\nhttps://marius205099.github.io/Ortodox/?d=20260927
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Ier. Martir Antim Ivireanul\, mitropolitul Ţ
+ ării Româneşti\; Sf. Mc. Calistrat şi Epiharia\; Duminica a 18-a după
+  Rusalii\; Ap. 2 Corinteni 9\, 6-11\; Ev. Luca 5\, 1-11 (Pescuirea minunat
+ ă)\; glas 8\, v
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260928@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:† Sf. Cuv. Hariton Mărturisitorul\; Sf. Proroc Baruh\; Sf. Cuv.
+  Neofit Zăvorâtul din Cipru
+DESCRIPTION:† Sf. Cuv. Hariton Mărturisitorul\; Sf. Proroc Baruh\; Sf. 
+ Cuv. Neofit Zăvorâtul din Cipru\nZiua satului românesc\nApostolul: Ap. 
+ Efeseni 4\, 25-32\nEvanghelia: Ev. Luca 3\, 19-22\nhttps://marius205099.gi
+ thub.io/Ortodox/?d=20260928
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: † Sf. Cuv. Hariton Mărturisitorul\; Sf. Proroc Baru
+ h\; Sf. Cuv. Neofit Zăvorâtul din Cipru
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260929@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Sf. Cuv. Chiriac Sihastrul\; Sf. Mc. Petronia
+DESCRIPTION:Sf. Cuv. Chiriac Sihastrul\; Sf. Mc. Petronia\nApostolul: Ap. 
+ Efeseni 5\, 20-25\nEvanghelia: Ev. Luca 3\, 23-38\; 4\, 1\nhttps://marius2
+ 05099.github.io/Ortodox/?d=20260929
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Cuv. Chiriac Sihastrul\; Sf. Mc. Petronia
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20260930@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Sf. Ier. Grigorie Luminătorul\, arhiepiscopul Armeniei\; Sf. Mc. 
+ Ripsimia și Gaiani
+DESCRIPTION:Sf. Ier. Grigorie Luminătorul\, arhiepiscopul Armeniei\; Sf. 
+ Mc. Ripsimia și Gaiani\nAniversarea întronizării Patriarhului Daniel (2
+ 007)\nApostolul: Ap. Efeseni 5\, 25-33\nEvanghelia: Ev. Luca 4\, 1-15\nhtt
+ ps://marius205099.github.io/Ortodox/?d=20260930
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Ier. Grigorie Luminătorul\, arhiepiscopul Armenie
+ i\; Sf. Mc. Ripsimia și Gaiani
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261001@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:† (†) Acoperământul Maicii Domnului\; Sf. Ap. Anania\; †) 
+ Sf. Cuv. Iosif și Chiriac de la Bisericani\; Sf. Cuv. Roman Melodul
+DESCRIPTION:(†) Acoperământul Maicii Domnului\; Sf. Ap. Anania\; †) 
+ Sf. Cuv. Iosif și Chiriac de la Bisericani\; Sf. Cuv. Roman Melodul\nZiua
+  persoanelor vârstnice\nApostolul: Ap. Galateni 3\, 23-29\; 4\, 1-5\nEvan
+ ghelia: Ev. Luca 10\, 38-42\; 11\, 27-28\nhttps://marius205099.github.io/O
+ rtodox/?d=20261001
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: (†) Acoperământul Maicii Domnului\; Sf. Ap. Anania
+ \; †) Sf. Cuv. Iosif și Chiriac de la Bisericani\; Sf. Cuv. Roman Melod
+ ul
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261002@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Sf. Sfințit Mc. Ciprian\; Sf. Mc. Iustina fecioara
+DESCRIPTION:Sf. Sfințit Mc. Ciprian\; Sf. Mc. Iustina fecioara\nApostolul
+ : Ap. Efeseni 6\, 18-24\nEvanghelia: Ev. Luca 4\, 22-30\nhttps://marius205
+ 099.github.io/Ortodox/?d=20261002
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Sfințit Mc. Ciprian\; Sf. Mc. Iustina fecioara
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261003@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Sf. Sfințit Mc. Dionisie Areopagitul\; Sf. Mc. Teoctist
+DESCRIPTION:Sf. Sfințit Mc. Dionisie Areopagitul\; Sf. Mc. Teoctist\nApos
+ tolul: Ap. I Corinteni 15\, 39-45\nEvanghelia: Ev. Luca 4\, 31-36\nhttps:/
+ /marius205099.github.io/Ortodox/?d=20261003
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Sfințit Mc. Dionisie Areopagitul\; Sf. Mc. Teocti
+ st
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261004@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:† †) Sf. Preot Mărturisitor Dumitru Stăniloae\; Sf. Sfinţit
+  Mc. Ierotei\, episcopul Atenei Duminica a 19-a după Rusalii\; Ap. 2 Cori
+ nteni 11\, 31-33\; 12\, 1-9\; Ev. Luca 6\, 31-36 (Predica de pe munte. Iub
+ irea vrăjmaşilor)\; glas 1\, voscr. 7
+DESCRIPTION:†) Sf. Preot Mărturisitor Dumitru Stăniloae\; Sf. Sfinţit
+  Mc. Ierotei\, episcopul Atenei Duminica a 19-a după Rusalii\; Ap. 2 Cori
+ nteni 11\, 31-33\; 12\, 1-9\; Ev. Luca 6\, 31-36 (Predica de pe munte. Iub
+ irea vrăjmaşilor)\; glas 1\, voscr. 7\nApostolul: Ap. II Corinteni 11\, 
+ 31-33\; 12\, 1-9\nEvanghelia: Ev. Luca 6\, 31-36\nhttps://marius205099.git
+ hub.io/Ortodox/?d=20261004
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Preot Mărturisitor Dumitru Stăniloae\; Sf. 
+ Sfinţit Mc. Ierotei\, episcopul Atenei Duminica a 19-a după Rusalii\; Ap
+ . 2 Corinteni 11\, 31-33\; 12\, 1-9\; Ev. Luca 6\, 31-36 (Predica de pe mu
+ nte. Iubirea
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261005@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:†) Sf. Cuv. Daniil şi Misail de la Mănăstirea Turnu\; Sf. Mc.
+  Haritina
+DESCRIPTION:†) Sf. Cuv. Daniil şi Misail de la Mănăstirea Turnu\; Sf.
+  Mc. Haritina\nApostolul: Ap. Filipeni 1\, 1-7\nEvanghelia: Ev. Luca 4\, 3
+ 8-44\nhttps://marius205099.github.io/Ortodox/?d=20261005
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Cuv. Daniil şi Misail de la Mănăstirea Tur
+ nu\; Sf. Mc. Haritina
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261006@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Sf. Ap. Toma\; Sf. Mc. Erotiida
+DESCRIPTION:Sf. Ap. Toma\; Sf. Mc. Erotiida\nApostolul: Ap. Filipeni 1\, 8
+ -14\nEvanghelia: Ev. Luca 5\, 12-16\nhttps://marius205099.github.io/Ortodo
+ x/?d=20261006
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Ap. Toma\; Sf. Mc. Erotiida
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261007@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:† Sf. Mari Mc. Serghie și Vah\; Sf. Mc. Iulian preotul\, Chesar
+ ie diaconul și Polihronie
+DESCRIPTION:† Sf. Mari Mc. Serghie și Vah\; Sf. Mc. Iulian preotul\, Ch
+ esarie diaconul și Polihronie\nApostolul: Ap. Filipeni 1\, 12-19\nEvanghe
+ lia: Ev. Luca 5\, 33-39\nhttps://marius205099.github.io/Ortodox/?d=2026100
+ 7
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: † Sf. Mari Mc. Serghie și Vah\; Sf. Mc. Iulian preo
+ tul\, Chesarie diaconul și Polihronie
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261008@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Sf. Cuv. Pelaghia și Taisia
+DESCRIPTION:Sf. Cuv. Pelaghia și Taisia\nApostolul: Ap. Filipeni 1\, 20-2
+ 7\nEvanghelia: Ev. Luca 6\, 12-19\nhttps://marius205099.github.io/Ortodox/
+ ?d=20261008
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Cuv. Pelaghia și Taisia
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Sf. Ap. Iacob al lui Alfeu\; Sf. Cuv. Andronic și Atanasia
+DESCRIPTION:Sf. Ap. Iacob al lui Alfeu\; Sf. Cuv. Andronic și Atanasia\nA
+ postolul: Ap. Filipeni 1\, 27-30\; 2\, 1-4\nEvanghelia: Ev. Luca 6\, 17-23
+ \nhttps://marius205099.github.io/Ortodox/?d=20261009
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Ap. Iacob al lui Alfeu\; Sf. Cuv. Andronic și Ata
+ nasia
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261010@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Sf. Mc. Evlampie și sora sa\, Evlampia\; Sf. Cuv. Vasian și Teof
+ il Mărturisitorul
+DESCRIPTION:Sf. Mc. Evlampie și sora sa\, Evlampia\; Sf. Cuv. Vasian și 
+ Teofil Mărturisitorul\nApostolul: Ap. I Corinteni 15\, 58\; 16\, 1-3\nEva
+ nghelia: Ev. Luca 5\, 17-26\nhttps://marius205099.github.io/Ortodox/?d=202
+ 61010
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Mc. Evlampie și sora sa\, Evlampia\; Sf. Cuv. Vas
+ ian și Teofil Mărturisitorul
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261011@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:† Sf. Ap. Filip\, unul dintre cei 7 diaconi\; Sf. Ier. Teofan M
+ ărturisitorul\, episcopul Niceei\; Duminica a 21-a după Rusalii (a Sfin
+ ţilor Părinţi de la Sinodul al VII-lea Ecumenic)\; Ap. Galateni 2\, 16-
+ 20\; al Sf. Părinţi: Tit 3\, 8-15\; Ev. Luca
+DESCRIPTION:Sf. Ap. Filip\, unul dintre cei 7 diaconi\; Sf. Ier. Teofan M
+ ărturisitorul\, episcopul Niceei\; Duminica a 21-a după Rusalii (a Sfin
+ ţilor Părinţi de la Sinodul al VII-lea Ecumenic)\; Ap. Galateni 2\, 16-
+ 20\; al Sf. Părinţi: Tit 3\, 8-15\; Ev. Luca 8\, 5-15 (Pilda semănător
+ ului)\; a Sf. Părinţi: Ioan 17\, 1-13 (Rugăciunea lui Iisus)\; glas 2\,
+  voscr. 8\nApostolul: Ap. Galateni 2\, 16-20\nEvanghelia: Ev. Luca 8\, 5-1
+ 5\nhttps://marius205099.github.io/Ortodox/?d=20261011
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Ap. Filip\, unul dintre cei 7 diaconi\; Sf. Ier. T
+ eofan Mărturisitorul\, episcopul Niceei\; Duminica a 21-a după Rusalii (
+ a Sfinţilor Părinţi de la Sinodul al VII-lea Ecumenic)\; Ap. Galateni 2
+ \, 16-20\;
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261012@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Sf. Mc. Prov\, Tarah şi Andronic\; Sf. Ier. Cosma\, episcopul Mai
+ umei
+DESCRIPTION:Sf. Mc. Prov\, Tarah şi Andronic\; Sf. Ier. Cosma\, episcopul
+  Maiumei\nApostolul: Ap. Filipeni 2\, 12-16\nEvanghelia: Ev. Luca 6\, 24-3
+ 0\nhttps://marius205099.github.io/Ortodox/?d=20261012
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Mc. Prov\, Tarah şi Andronic\; Sf. Ier. Cosma\, e
+ piscopul Maiumei
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261013@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:† Aducerea moaștelor Sfântului Apostol Andrei la Iași\; Sf. M
+ c. Carp\, Papil\, Agatodor\, Agatonica și Florentie
+DESCRIPTION:† Aducerea moaștelor Sfântului Apostol Andrei la Iași\; S
+ f. Mc. Carp\, Papil\, Agatodor\, Agatonica și Florentie\nApostolul: Ap. F
+ ilipeni 2\, 16-23\nEvanghelia: Ev. Luca 6\, 37-45\nhttps://marius205099.gi
+ thub.io/Ortodox/?d=20261013
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: † Aducerea moaștelor Sfântului Apostol Andrei la I
+ ași\; Sf. Mc. Carp\, Papil\, Agatodor\, Agatonica și Florentie
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261014@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:† †) Sf. Cuv. Parascheva de la Iași\; Sf. Mc. Nazarie\, Gherv
+ asie\, Protasie și Chelsie
+DESCRIPTION:†) Sf. Cuv. Parascheva de la Iași\; Sf. Mc. Nazarie\, Gherv
+ asie\, Protasie și Chelsie\nApostolul: Ap. II Corinteni 3\, 17-18\; 4\, 6
+ -10\nEvanghelia: Ev. Marcu 8\, 34-38\; 9\, 1\nhttps://marius205099.github.
+ io/Ortodox/?d=20261014
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Cuv. Parascheva de la Iași\; Sf. Mc. Nazarie
+ \, Ghervasie\, Protasie și Chelsie
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261015@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:† Sf. Magdalena de la Mălainița\; Sf. Sfinţit Mc. Lucian\, pr
+ eotul din Antiohia
+DESCRIPTION:† Sf. Magdalena de la Mălainița\; Sf. Sfinţit Mc. Lucian\
+ , preotul din Antiohia\nApostolul: Ap. Filipeni 3\, 1-8\nEvanghelia: Ev. L
+ uca 7\, 17-30\nhttps://marius205099.github.io/Ortodox/?d=20261015
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: † Sf. Magdalena de la Mălainița\; Sf. Sfinţit Mc.
+  Lucian\, preotul din Antiohia
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261016@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Sf. Mc. Longhin Sutașul
+DESCRIPTION:Sf. Mc. Longhin Sutașul\nApostolul: Ap. Filipeni 3\, 8-19\nEv
+ anghelia: Ev. Luca 7\, 31-35\nhttps://marius205099.github.io/Ortodox/?d=20
+ 261016
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Mc. Longhin Sutașul
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261017@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Sf. Proroc Oseea\; Sf. Cuv. Mc. Andrei Criteanul
+DESCRIPTION:Sf. Proroc Oseea\; Sf. Cuv. Mc. Andrei Criteanul\nApostolul: A
+ p. II Corinteni 1\, 8-11\nEvanghelia: Ev. Luca 5\, 27-32\nhttps://marius20
+ 5099.github.io/Ortodox/?d=20261017
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Proroc Oseea\; Sf. Cuv. Mc. Andrei Criteanul
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261018@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:† Sf. Ap. şi Evanghelist Luca\; Sf. Mc. Marin cel Bătrân\; Du
+ minica a 20-a după Rusalii\; Ap. Galateni 1\, 11-19\; Ev. Luca 7\, 11-16 
+ (Învierea fiului văduvei din Nain)\; glas 3\, voscr. 9
+DESCRIPTION:Sf. Ap. şi Evanghelist Luca\; Sf. Mc. Marin cel Bătrân\; Du
+ minica a 20-a după Rusalii\; Ap. Galateni 1\, 11-19\; Ev. Luca 7\, 11-16 
+ (Învierea fiului văduvei din Nain)\; glas 3\, voscr. 9\nApostolul: Ap. G
+ alateni 1\, 11-19\nEvanghelia: Ev. Luca 7\, 11-16\nhttps://marius205099.gi
+ thub.io/Ortodox/?d=20261018
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Ap. şi Evanghelist Luca\; Sf. Mc. Marin cel Bătr
+ ân\; Duminica a 20-a după Rusalii\; Ap. Galateni 1\, 11-19\; Ev. Luca 7\
+ , 11-16 (Învierea fiului văduvei din Nain)\; glas 3\, voscr. 9
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261019@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Sf. Proroc Ioil\; Sf. Mc. Uar\; Sf. Cleopatra\; Sf. Cuv. Ioan de l
+ a Rila
+DESCRIPTION:Sf. Proroc Ioil\; Sf. Mc. Uar\; Sf. Cleopatra\; Sf. Cuv. Ioan 
+ de la Rila\nApostolul: Ap. Filipeni 4\, 10-23\nEvanghelia: Ev. Luca 7\, 36
+ -50\nhttps://marius205099.github.io/Ortodox/?d=20261019
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Proroc Ioil\; Sf. Mc. Uar\; Sf. Cleopatra\; Sf. Cu
+ v. Ioan de la Rila
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261020@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Sf. Mare Mc. Artemie\; Sf. Cuv. Gherasim din Chefalonia
+DESCRIPTION:Sf. Mare Mc. Artemie\; Sf. Cuv. Gherasim din Chefalonia\nApost
+ olul: Ap. Coloseni 1\, 1-11\nEvanghelia: Ev. Luca 8\, 1-3\nhttps://marius2
+ 05099.github.io/Ortodox/?d=20261020
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Mare Mc. Artemie\; Sf. Cuv. Gherasim din Chefaloni
+ a
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261021@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:†) Sf. Cuv. Mărturisitori: Visarion și Sofronie\; Sf. Mc. Opre
+ a\; Sf. Preoți Mărturisitori: Ioan din Galeș și Moise Măcinic din Sib
+ iel\; Sf. Cuv. Ilarion cel Mare
+DESCRIPTION:†) Sf. Cuv. Mărturisitori: Visarion și Sofronie\; Sf. Mc. 
+ Oprea\; Sf. Preoți Mărturisitori: Ioan din Galeș și Moise Măcinic din
+  Sibiel\; Sf. Cuv. Ilarion cel Mare\nApostolul: Ap. Coloseni 1\, 18-23\nEv
+ anghelia: Ev. Luca 8\, 22-25\nhttps://marius205099.github.io/Ortodox/?d=20
+ 261021
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Cuv. Mărturisitori: Visarion și Sofronie\; 
+ Sf. Mc. Oprea\; Sf. Preoți Mărturisitori: Ioan din Galeș și Moise Măc
+ inic din Sibiel\; Sf. Cuv. Ilarion cel Mare
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261022@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Sf. Ier. Averchie\, episcopul Ierapolei\, cel întocmai cu Apostol
+ ii\; Sf. 7 tineri din Efes
+DESCRIPTION:Sf. Ier. Averchie\, episcopul Ierapolei\, cel întocmai cu Apo
+ stolii\; Sf. 7 tineri din Efes\nApostolul: Ap. Coloseni 1\, 24-29\; 2\, 1\
+ nEvanghelia: Ev. Luca 9\, 7-11\nhttps://marius205099.github.io/Ortodox/?d=
+ 20261022
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Ier. Averchie\, episcopul Ierapolei\, cel întocma
+ i cu Apostolii\; Sf. 7 tineri din Efes
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261023@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Sf. Ap. Iacob\, rudenia Domnului\, întâiul episcop al Ierusalimu
+ lui\; †) Sf. Preot Mucenic Constantin Sârbu\; Sf. Cuv. Macarie Romanul
+DESCRIPTION:Sf. Ap. Iacob\, rudenia Domnului\, întâiul episcop al Ierusa
+ limului\; †) Sf. Preot Mucenic Constantin Sârbu\; Sf. Cuv. Macarie Roma
+ nul\nApostolul: Ap. Coloseni 2\, 1-7\nEvanghelia: Ev. Luca 9\, 12-18\nhttp
+ s://marius205099.github.io/Ortodox/?d=20261023
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Ap. Iacob\, rudenia Domnului\, întâiul episcop a
+ l Ierusalimului\; †) Sf. Preot Mucenic Constantin Sârbu\; Sf. Cuv. Maca
+ rie Romanul
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261024@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Sf. Mare Mucenic Areta\; Sf. Mc. Marcu\, Sotirih și Valentin
+DESCRIPTION:Sf. Mare Mucenic Areta\; Sf. Mc. Marcu\, Sotirih și Valentin\
+ nApostolul: Ap. II Corinteni 3\, 12-18\nEvanghelia: Ev. Luca 6\, 1-10\nhtt
+ ps://marius205099.github.io/Ortodox/?d=20261024
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Mare Mucenic Areta\; Sf. Mc. Marcu\, Sotirih și V
+ alentin
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261025@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:† Sf. Mc. Marcian şi Martirie\; Sf. Tavita\; Duminica a 23-a du
+ pă Rusalii\; Ap. Efeseni 2\, 4-10\; Ev. Luca 8\, 26-39 (Vindecarea demoni
+ zatului din ţinutul Gherghesenilor)\; glas 4\, voscr. 10
+DESCRIPTION:Sf. Mc. Marcian şi Martirie\; Sf. Tavita\; Duminica a 23-a du
+ pă Rusalii\; Ap. Efeseni 2\, 4-10\; Ev. Luca 8\, 26-39 (Vindecarea demoni
+ zatului din ţinutul Gherghesenilor)\; glas 4\, voscr. 10\nApostolul: Ap. 
+ Efeseni 2\, 4-10\nEvanghelia: Ev. Luca 8\, 26-39\nhttps://marius205099.git
+ hub.io/Ortodox/?d=20261025
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Mc. Marcian şi Martirie\; Sf. Tavita\; Duminica a
+  23-a după Rusalii\; Ap. Efeseni 2\, 4-10\; Ev. Luca 8\, 26-39 (Vindecare
+ a demonizatului din ţinutul Gherghesenilor)\; glas 4\, voscr. 10
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261026@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:† †) Sf. Mare Mc. Dimitrie\, Izvorâtorul de Mir
+DESCRIPTION:†) Sf. Mare Mc. Dimitrie\, Izvorâtorul de Mir\nApostolul: A
+ p. II Timotei 2\, 1-10\nEvanghelia: Ev. Ioan 15\, 17-27\; 16\, 1-2\nhttps:
+ //marius205099.github.io/Ortodox/?d=20261026
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Mare Mc. Dimitrie\, Izvorâtorul de Mir
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261027@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:† †) Sf. Cuv. Dimitrie cel Nou\, Ocrotitorul Bucureștilor (al
+ e cărui moaște se află în Catedrala Patriarhală)\; Sf. Mc. Nestor
+DESCRIPTION:†) Sf. Cuv. Dimitrie cel Nou\, Ocrotitorul Bucureștilor (al
+ e cărui moaște se află în Catedrala Patriarhală)\; Sf. Mc. Nestor\nAp
+ ostolul: Ap. Efeseni 4\, 7-13\nEvanghelia: Ev. Matei 11\, 27-30\nhttps://m
+ arius205099.github.io/Ortodox/?d=20261027
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Cuv. Dimitrie cel Nou\, Ocrotitorul Bucureșt
+ ilor (ale cărui moaște se află în Catedrala Patriarhală)\; Sf. Mc. Ne
+ stor
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261028@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:† Sf. Ier. Iachint\, mitropolitul Țării Românești\; †) Sf.
+  Cuv. Teofana Basarab\; Sf. Mc. Terentie\, soția sa\, Neonila și cei 7 f
+ ii\; Sf. Cuv. Ștefan Savaitul\; Sf. Ier. Firmilian\, episcopul Cezareei C
+ apadociei
+DESCRIPTION:† Sf. Ier. Iachint\, mitropolitul Țării Românești\; †)
+  Sf. Cuv. Teofana Basarab\; Sf. Mc. Terentie\, soția sa\, Neonila și cei
+  7 fii\; Sf. Cuv. Ștefan Savaitul\; Sf. Ier. Firmilian\, episcopul Cezare
+ ei Capadociei\nApostolul: Ap. Coloseni 3\, 17-20\; 4\, 1-2\nEvanghelia: Ev
+ . Luca 9\, 44-50\nhttps://marius205099.github.io/Ortodox/?d=20261028
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: † Sf. Ier. Iachint\, mitropolitul Țării Româneșt
+ i\; †) Sf. Cuv. Teofana Basarab\; Sf. Mc. Terentie\, soția sa\, Neonila
+  și cei 7 fii\; Sf. Cuv. Ștefan Savaitul\; Sf. Ier. Firmilian\, episcopu
+ l Cezareei Capado
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261029@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Sf. Cuv. Mc. Anastasia Romana\; Sf. Cuv. Avramie și Maria\, nepoa
+ ta sa
+DESCRIPTION:Sf. Cuv. Mc. Anastasia Romana\; Sf. Cuv. Avramie și Maria\, n
+ epoata sa\nApostolul: Ap. Coloseni 4\, 2-9\nEvanghelia: Ev. Luca 9\, 49-56
+ \nhttps://marius205099.github.io/Ortodox/?d=20261029
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Cuv. Mc. Anastasia Romana\; Sf. Cuv. Avramie și M
+ aria\, nepoata sa
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261030@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Sf. Sfințit Mc. Zenovie\, episcopul Ciliciei\, și sora sa\, Zeno
+ via\; Sf. Ap. Cleopa
+DESCRIPTION:Sf. Sfințit Mc. Zenovie\, episcopul Ciliciei\, și sora sa\, 
+ Zenovia\; Sf. Ap. Cleopa\nApostolul: Ap. Coloseni 4\, 10-18\nEvanghelia: E
+ v. Luca 10\, 1-15\nhttps://marius205099.github.io/Ortodox/?d=20261030
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Sfințit Mc. Zenovie\, episcopul Ciliciei\, și so
+ ra sa\, Zenovia\; Sf. Ap. Cleopa
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261031@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Sf. Ap. Apelie\, Stahie\, Amplie\, Urban\, Aristobul și Narcis\; 
+ Sf. Mc. Epimah
+DESCRIPTION:Sf. Ap. Apelie\, Stahie\, Amplie\, Urban\, Aristobul și Narci
+ s\; Sf. Mc. Epimah\nApostolul: Ap. II Corinteni 5\, 1-10\nEvanghelia: Ev. 
+ Luca 7\, 1-10\nhttps://marius205099.github.io/Ortodox/?d=20261031
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Ap. Apelie\, Stahie\, Amplie\, Urban\, Aristobul 
+ și Narcis\; Sf. Mc. Epimah
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261101@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:† Sf. doctori fără de arginţi Cosma şi Damian\, cei din Asia
+ \; Duminica a 22-a după Rusalii\; Ap. Galateni 6\, 11-18\; Ev. Luca 16\, 
+ 19-31 (Bogatul nemilostiv şi săracul Lazăr)\; glas 5\, voscr. 11
+DESCRIPTION:Sf. doctori fără de arginţi Cosma şi Damian\, cei din Asia
+ \; Duminica a 22-a după Rusalii\; Ap. Galateni 6\, 11-18\; Ev. Luca 16\, 
+ 19-31 (Bogatul nemilostiv şi săracul Lazăr)\; glas 5\, voscr. 11\n101 a
+ ni de la întronizarea primului patriarh al României\, Miron Cristea\nApo
+ stolul: Ap. Galateni 6\, 11-18\nEvanghelia: Ev. Luca 16\, 19-31\nhttps://m
+ arius205099.github.io/Ortodox/?d=20261101
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. doctori fără de arginţi Cosma şi Damian\, cei 
+ din Asia\; Duminica a 22-a după Rusalii\; Ap. Galateni 6\, 11-18\; Ev. Lu
+ ca 16\, 19-31 (Bogatul nemilostiv şi săracul Lazăr)\; glas 5\, voscr. 1
+ 1
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261102@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Sf. Mc. Achindin\, Pigasie\, Aftonie\, Elpidifor și Anempodist
+DESCRIPTION:Sf. Mc. Achindin\, Pigasie\, Aftonie\, Elpidifor și Anempodis
+ t\nApostolul: Ap. I Tesaloniceni 1\, 1-5\nEvanghelia: Ev. Luca 10\, 22-24\
+ nhttps://marius205099.github.io/Ortodox/?d=20261102
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Mc. Achindin\, Pigasie\, Aftonie\, Elpidifor și A
+ nempodist
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261103@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Sf. Sfințiți Mc. Achepsima\, Iosif și Aitala\; Așezarea moașt
+ elor Sf. Mare Mc. Gheorghe în Lida
+DESCRIPTION:Sf. Sfințiți Mc. Achepsima\, Iosif și Aitala\; Așezarea mo
+ aștelor Sf. Mare Mc. Gheorghe în Lida\nApostolul: Ap. I Tesaloniceni 1\,
+  6-10\nEvanghelia: Ev. Luca 11\, 1-10\nhttps://marius205099.github.io/Orto
+ dox/?d=20261103
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Sfințiți Mc. Achepsima\, Iosif și Aitala\; Așe
+ zarea moaștelor Sf. Mare Mc. Gheorghe în Lida
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261104@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Sf. Cuv. Ioanichie cel Mare\; Sf. Mc. Nicandru și Ermeu\; Sf. Cuv
+ . Gheorghe Mărturisitorul din Drama
+DESCRIPTION:Sf. Cuv. Ioanichie cel Mare\; Sf. Mc. Nicandru și Ermeu\; Sf.
+  Cuv. Gheorghe Mărturisitorul din Drama\nApostolul: Ap. I Tesaloniceni 2\
+ , 1-8\nEvanghelia: Ev. Luca 11\, 9-13\nhttps://marius205099.github.io/Orto
+ dox/?d=20261104
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Cuv. Ioanichie cel Mare\; Sf. Mc. Nicandru și Erm
+ eu\; Sf. Cuv. Gheorghe Mărturisitorul din Drama
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261105@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Sf. Mc. Galaction și Epistimia
+DESCRIPTION:Sf. Mc. Galaction și Epistimia\nApostolul: Ap. I Tesaloniceni
+  2\, 9-14\nEvanghelia: Ev. Luca 11\, 14-23\nhttps://marius205099.github.io
+ /Ortodox/?d=20261105
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Mc. Galaction și Epistimia
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261106@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Sf. Ier. Pavel Mărturisitorul\, arhiepiscopul Constantinopolului\
+ ; Sf. Cuv. Luca din Sicilia
+DESCRIPTION:Sf. Ier. Pavel Mărturisitorul\, arhiepiscopul Constantinopolu
+ lui\; Sf. Cuv. Luca din Sicilia\nApostolul: Ap. I Tesaloniceni 2\, 14-20\n
+ Evanghelia: Ev. Luca 11\, 23-26\nhttps://marius205099.github.io/Ortodox/?d
+ =20261106
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Ier. Pavel Mărturisitorul\, arhiepiscopul Constan
+ tinopolului\; Sf. Cuv. Luca din Sicilia
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261107@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Sfinții 33 de Mucenici din Melitina\; Sf. Cuv. Lazăr din Muntele
+  Galisiei (Sâmbăta celor adormiți - Moşii de toamnă)
+DESCRIPTION:Sfinții 33 de Mucenici din Melitina\; Sf. Cuv. Lazăr din Mun
+ tele Galisiei (Sâmbăta celor adormiți - Moşii de toamnă)\nApostolul: 
+ Ap. II Corinteni 8\, 1-5\nEvanghelia: Ev. Luca 8\, 16-21\nhttps://marius20
+ 5099.github.io/Ortodox/?d=20261107
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sfinții 33 de Mucenici din Melitina\; Sf. Cuv. Lazăr
+  din Muntele Galisiei (Sâmbăta celor adormiți - Moşii de toamnă)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261108@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:† †) Soborul Sf. Arhangheli Mihail şi Gavriil şi al tuturor 
+ cereştilor puteri: Duminica a 24-a după Rusalii\; Ap. Efeseni 2\, 14-22\
+ ; al Arhanghelilor: Evrei 2\, 2-10\; Ev. Luca 8\, 41-56 (Învierea fiicei 
+ lui Iair)\; a Arhanghelilor: Luca 10\, 16-2
+DESCRIPTION:†) Soborul Sf. Arhangheli Mihail şi Gavriil şi al tuturor 
+ cereştilor puteri: Duminica a 24-a după Rusalii\; Ap. Efeseni 2\, 14-22\
+ ; al Arhanghelilor: Evrei 2\, 2-10\; Ev. Luca 8\, 41-56 (Învierea fiicei 
+ lui Iair)\; a Arhanghelilor: Luca 10\, 16-21\; glas 6\, voscr. 1\nApostolu
+ l: Ap. Efeseni 2\, 14-22\nEvanghelia: Ev. Luca 8\, 41-56\nhttps://marius20
+ 5099.github.io/Ortodox/?d=20261108
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Soborul Sf. Arhangheli Mihail şi Gavriil şi al 
+ tuturor cereştilor puteri: Duminica a 24-a după Rusalii\; Ap. Efeseni 2\
+ , 14-22\; al Arhanghelilor: Evrei 2\, 2-10\; Ev. Luca 8\, 41-56 (Învierea
+  fiicei lui
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:†) Sf. Ier. Nectarie de la Eghina\; Sf. Mc. Claudiu\, Castor\, S
+ empronian şi Nicostrat\; Sf. Mc. Onisifor şi Porfirie\; Sf. Cuv. Matrona
+DESCRIPTION:†) Sf. Ier. Nectarie de la Eghina\; Sf. Mc. Claudiu\, Castor
+ \, Sempronian şi Nicostrat\; Sf. Mc. Onisifor şi Porfirie\; Sf. Cuv. Mat
+ rona\nApostolul: Ap. I Tesaloniceni 2\, 20\; 3\, 1-8\nEvanghelia: Ev. Luca
+  11\, 29-33\nhttps://marius205099.github.io/Ortodox/?d=20261109
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Ier. Nectarie de la Eghina\; Sf. Mc. Claudiu\
+ , Castor\, Sempronian şi Nicostrat\; Sf. Mc. Onisifor şi Porfirie\; Sf. 
+ Cuv. Matrona
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261110@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Sf. Ap. Olimp\, Rodion\, Sosipatru\, Erast\, Terțiu și Cvart\; 
+ †) Sf. Cuv. Mc. Visarion de la Lainici \; Sf. Mc. Orest
+DESCRIPTION:Sf. Ap. Olimp\, Rodion\, Sosipatru\, Erast\, Terțiu și Cvart
+ \; †) Sf. Cuv. Mc. Visarion de la Lainici \; Sf. Mc. Orest\nApostolul: A
+ p. I Tesaloniceni 3\, 8-13\nEvanghelia: Ev. Luca 11\, 34-41\nhttps://mariu
+ s205099.github.io/Ortodox/?d=20261110
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Ap. Olimp\, Rodion\, Sosipatru\, Erast\, Terțiu 
+ și Cvart\; †) Sf. Cuv. Mc. Visarion de la Lainici \; Sf. Mc. Orest
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261111@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:† Sf. Mare Mc. Mina\; Sf. Mc. Victor\, Vichentie și Ștefanida\
+ ; Sf. Cuv. Teodor Studitul
+DESCRIPTION:† Sf. Mare Mc. Mina\; Sf. Mc. Victor\, Vichentie și Ștefan
+ ida\; Sf. Cuv. Teodor Studitul\nApostolul: Ap. I Tesaloniceni 4\, 1-12\nEv
+ anghelia: Ev. Luca 11\, 42-46\nhttps://marius205099.github.io/Ortodox/?d=2
+ 0261111
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: † Sf. Mare Mc. Mina\; Sf. Mc. Victor\, Vichentie și
+  Ștefanida\; Sf. Cuv. Teodor Studitul
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:†) Sf. Martiri și Mărturisitori Năsăudeni: Atanasie Todoran 
+ din Bichigiu\, Vasile din Mocod\, Grigorie din Zagra și Vasile din Telciu
+  \; Sf. Ier. Ioan cel Milostiv\, patriarhul Alexandriei\; Sf. Cuv. Nil Pus
+ tnicul
+DESCRIPTION:†) Sf. Martiri și Mărturisitori Năsăudeni: Atanasie Todo
+ ran din Bichigiu\, Vasile din Mocod\, Grigorie din Zagra și Vasile din Te
+ lciu \; Sf. Ier. Ioan cel Milostiv\, patriarhul Alexandriei\; Sf. Cuv. Nil
+  Pustnicul\nApostolul: Ap. I Tesaloniceni 4\, 18\; 5\, 1-10\nEvanghelia: E
+ v. Luca 11\, 47-54\; 12\, 1\nhttps://marius205099.github.io/Ortodox/?d=202
+ 61112
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Martiri și Mărturisitori Năsăudeni: Atana
+ sie Todoran din Bichigiu\, Vasile din Mocod\, Grigorie din Zagra și Vasil
+ e din Telciu \; Sf. Ier. Ioan cel Milostiv\, patriarhul Alexandriei\; Sf. 
+ Cuv. Nil P
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261113@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:† ) Sf. Ier. Ioan Gură de Aur\, arhiepiscopul Constantinopolulu
+ i\, și mama sa\, Sf. Antuza
+DESCRIPTION:† ) Sf. Ier. Ioan Gură de Aur\, arhiepiscopul Constantinopo
+ lului\, și mama sa\, Sf. Antuza\nZiua Bibliei\nApostolul: Ap. I Tesalonic
+ eni 5\, 9-13\; 24-28\nEvanghelia: Ev. Luca 12\, 2-12\nhttps://marius205099
+ .github.io/Ortodox/?d=20261113
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: † ) Sf. Ier. Ioan Gură de Aur\, arhiepiscopul Const
+ antinopolului\, și mama sa\, Sf. Antuza
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261114@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:†) Sf. Ap. Filip\, unul dintre cei 12 Apostoli\; Sf. Ier. Grigor
+ ie Palama\, arhiepiscopul Tesalonicului\; Sfinții Palamiți (Lăsatul sec
+ ului pentru Postul Naşterii Domnului)
+DESCRIPTION:†) Sf. Ap. Filip\, unul dintre cei 12 Apostoli\; Sf. Ier. Gr
+ igorie Palama\, arhiepiscopul Tesalonicului\; Sfinții Palamiți (Lăsatul
+  secului pentru Postul Naşterii Domnului)\nApostolul: Ap. II Corinteni 11
+ \, 1-6\nEvanghelia: Ev. Luca 9\, 1-6\nhttps://marius205099.github.io/Ortod
+ ox/?d=20261114
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Ap. Filip\, unul dintre cei 12 Apostoli\; Sf.
+  Ier. Grigorie Palama\, arhiepiscopul Tesalonicului\; Sfinții Palamiți (
+ Lăsatul secului pentru Postul Naşterii Domnului)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261115@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:† †) Sf. Cuv. Paisie de la Neamţ\; Sf. Mc. şi Mărturisitori
+ : Gurie\, Samona şi Aviv diaconul (Începutul Postului Naşterii Domnului
+ ) \; Duminica a 25-a după Rusalii\; Ap. Efeseni 4\, 1-7\; Ev. Luca 10\, 2
+ 5-37 (Pilda samarineanului milostiv) \; glas 
+DESCRIPTION:†) Sf. Cuv. Paisie de la Neamţ\; Sf. Mc. şi Mărturisitori
+ : Gurie\, Samona şi Aviv diaconul (Începutul Postului Naşterii Domnului
+ ) \; Duminica a 25-a după Rusalii\; Ap. Efeseni 4\, 1-7\; Ev. Luca 10\, 2
+ 5-37 (Pilda samarineanului milostiv) \; glas 7\, voscr. 2\nApostolul: Ap. 
+ Efeseni 4\, 1-7\nEvanghelia: Ev. Luca 10\, 25-37\nhttps://marius205099.git
+ hub.io/Ortodox/?d=20261115
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Cuv. Paisie de la Neamţ\; Sf. Mc. şi Mărtu
+ risitori: Gurie\, Samona şi Aviv diaconul (Începutul Postului Naşterii 
+ Domnului) \; Duminica a 25-a după Rusalii\; Ap. Efeseni 4\, 1-7\; Ev. Luc
+ a 10\, 25-37 (
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Sf. Ap. și Evanghelist Matei
+DESCRIPTION:Sf. Ap. și Evanghelist Matei\nApostolul: Ap. II Tesaloniceni 
+ 1\, 1-10\nEvanghelia: Ev. Luca 12\, 13-15\; 22-31\nhttps://marius205099.gi
+ thub.io/Ortodox/?d=20261116
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Ap. și Evanghelist Matei
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261117@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Sf. Ier. Grigorie Taumaturgul\, episcopul Neocezareei\, și Ghenad
+ ie\, arhiepiscopul Constantinopolului\; Sf. Cuv. Lazăr Zugravul
+DESCRIPTION:Sf. Ier. Grigorie Taumaturgul\, episcopul Neocezareei\, și Gh
+ enadie\, arhiepiscopul Constantinopolului\; Sf. Cuv. Lazăr Zugravul\nApos
+ tolul: Ap. II Tesaloniceni 1\, 10-12\; 2\, 1-2\nEvanghelia: Ev. Luca 12\, 
+ 42-48\nhttps://marius205099.github.io/Ortodox/?d=20261117
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Ier. Grigorie Taumaturgul\, episcopul Neocezareei\
+ , și Ghenadie\, arhiepiscopul Constantinopolului\; Sf. Cuv. Lazăr Zugrav
+ ul
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261118@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Sf. Mc. Platon\, Roman și Zaheu
+DESCRIPTION:Sf. Mc. Platon\, Roman și Zaheu\nApostolul: Ap. II Tesalonice
+ ni 2\, 1-12\nEvanghelia: Ev. Luca 12\, 48-59\nhttps://marius205099.github.
+ io/Ortodox/?d=20261118
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Mc. Platon\, Roman și Zaheu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261119@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Sf. Proroc Avdie\; Sf. Mc. Varlaam
+DESCRIPTION:Sf. Proroc Avdie\; Sf. Mc. Varlaam\nApostolul: Ap. II Tesaloni
+ ceni 2\, 13-17\; 3\, 1-5\nEvanghelia: Ev. Luca 13\, 1-9\nhttps://marius205
+ 099.github.io/Ortodox/?d=20261119
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Proroc Avdie\; Sf. Mc. Varlaam
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261120@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Înainte-prăznuirea Intrării în biserică a Maicii Domnului \; 
+ †) Sf. Cuv. Grigorie Decapolitul \; † Sf. Mc. Dasie \; Sf. Ier. Proclu
+ \, arhiepiscopul Constantinopolului
+DESCRIPTION:Înainte-prăznuirea Intrării în biserică a Maicii Domnului
+  \; †) Sf. Cuv. Grigorie Decapolitul \; † Sf. Mc. Dasie \; Sf. Ier. Pr
+ oclu\, arhiepiscopul Constantinopolului\nApostolul: Ap. II Tesaloniceni 3\
+ , 6-18\nEvanghelia: Ev. Luca 13\, 31-35\nhttps://marius205099.github.io/Or
+ todox/?d=20261120
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Înainte-prăznuirea Intrării în biserică a Maicii 
+ Domnului \; †) Sf. Cuv. Grigorie Decapolitul \; † Sf. Mc. Dasie \; Sf.
+  Ier. Proclu\, arhiepiscopul Constantinopolului
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261121@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:† (†) Intrarea în biserică a Maicii Domnului (Dezlegare la p
+ ește)
+DESCRIPTION:(†) Intrarea în biserică a Maicii Domnului (Dezlegare la p
+ ește)\nApostolul: Ap. Evrei 9\, 1-7\nEvanghelia: Ev. Luca 10\, 38-42\; 11
+ \, 27-28\nhttps://marius205099.github.io/Ortodox/?d=20261121
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: (†) Intrarea în biserică a Maicii Domnului (Dezleg
+ are la pește)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261122@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:† Sf. Ap. Filimon\, Arhip\, Onisim şi Apfia\; Sf. Mc. Cecilia (
+ Dezlegare la peşte) \; Duminica a 26-a după Rusalii\; Ap. Efeseni 5\, 8-
+ 19\; Ev. Luca 12\, 16-21 (Pilda bogatului căruia i-a rodit ţarina) \; gl
+ as 8\, voscr. 3
+DESCRIPTION:Sf. Ap. Filimon\, Arhip\, Onisim şi Apfia\; Sf. Mc. Cecilia (
+ Dezlegare la peşte) \; Duminica a 26-a după Rusalii\; Ap. Efeseni 5\, 8-
+ 19\; Ev. Luca 12\, 16-21 (Pilda bogatului căruia i-a rodit ţarina) \; gl
+ as 8\, voscr. 3\nApostolul: Ap. Efeseni 5\, 8-19\nEvanghelia: Ev. Luca 12\
+ , 16-21\nhttps://marius205099.github.io/Ortodox/?d=20261122
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Ap. Filimon\, Arhip\, Onisim şi Apfia\; Sf. Mc. C
+ ecilia (Dezlegare la peşte) \; Duminica a 26-a după Rusalii\; Ap. Efesen
+ i 5\, 8-19\; Ev. Luca 12\, 16-21 (Pilda bogatului căruia i-a rodit ţarin
+ a) \; glas 8
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261123@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:† Sf. Cuv. Antonie de la Iezerul Vâlcii \; Sf. Ier. Amfilohie\,
+  episcopul Iconiei\, și Grigorie\, episcopul Acragandelor (Dezlegare la p
+ ește)
+DESCRIPTION:† Sf. Cuv. Antonie de la Iezerul Vâlcii \; Sf. Ier. Amfiloh
+ ie\, episcopul Iconiei\, și Grigorie\, episcopul Acragandelor (Dezlegare 
+ la pește)\nApostolul: Ap. I Timotei 1\, 1-7\nEvanghelia: Ev. Luca 14\, 1\
+ , 12-15\nhttps://marius205099.github.io/Ortodox/?d=20261123
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: † Sf. Cuv. Antonie de la Iezerul Vâlcii \; Sf. Ier.
+  Amfilohie\, episcopul Iconiei\, și Grigorie\, episcopul Acragandelor (De
+ zlegare la pește)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261124@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Sf. Sfințiți Mc. Clement\, episcopul Romei\, și Petru\, episcop
+ ul Alexandriei
+DESCRIPTION:Sf. Sfințiți Mc. Clement\, episcopul Romei\, și Petru\, epi
+ scopul Alexandriei\nApostolul: Ap. I Timotei 1\, 8-14\nEvanghelia: Ev. Luc
+ a 14\, 25-35\nhttps://marius205099.github.io/Ortodox/?d=20261124
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Sfințiți Mc. Clement\, episcopul Romei\, și Pet
+ ru\, episcopul Alexandriei
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261125@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Odovania praznicului Intrării în biserică a Maicii Domnului \; 
+ † Sf. Mare Mc. Ecaterina\; Sf. Mare Mc. Mercurie
+DESCRIPTION:Odovania praznicului Intrării în biserică a Maicii Domnului
+  \; † Sf. Mare Mc. Ecaterina\; Sf. Mare Mc. Mercurie\nSfințirea Altarul
+ ui Catedralei Naționale – 2018\nApostolul: Ap. I Timotei 1\, 18-20\; 2\
+ , 8-15\nEvanghelia: Ev. Luca 15\, 1-10\nhttps://marius205099.github.io/Ort
+ odox/?d=20261125
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Odovania praznicului Intrării în biserică a Maicii 
+ Domnului \; † Sf. Mare Mc. Ecaterina\; Sf. Mare Mc. Mercurie
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261126@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Sf. Cuv. Alipie Stâlpnicul\, Nicon și Stelian Paflagonul
+DESCRIPTION:Sf. Cuv. Alipie Stâlpnicul\, Nicon și Stelian Paflagonul\nAp
+ ostolul: Ap. I Timotei 3\, 1-13\nEvanghelia: Ev. Luca 16\, 1-9\nhttps://ma
+ rius205099.github.io/Ortodox/?d=20261126
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Cuv. Alipie Stâlpnicul\, Nicon și Stelian Paflag
+ onul
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261127@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Sf. Mare Mc. Iacob Persul\; Sf. Cuv. Natanael și Pinufrie
+DESCRIPTION:Sf. Mare Mc. Iacob Persul\; Sf. Cuv. Natanael și Pinufrie\nAp
+ ostolul: Ap. I Timotei 4\, 4-8\; 16\nEvanghelia: Ev. Luca 16\, 15-18\; 17\
+ , 1-4\nhttps://marius205099.github.io/Ortodox/?d=20261127
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Mare Mc. Iacob Persul\; Sf. Cuv. Natanael și Pinu
+ frie
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261128@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:†) Sf. Cuv. Mărturisitor Arsenie de la Prislop \; Sf. Cuv. Mc. 
+ Ștefan cel Nou\; Sf. Mc. Irinarh (Dezlegare la peşte)
+DESCRIPTION:†) Sf. Cuv. Mărturisitor Arsenie de la Prislop \; Sf. Cuv. 
+ Mc. Ștefan cel Nou\; Sf. Mc. Irinarh (Dezlegare la peşte)\nApostolul: Ap
+ . Galateni 3\, 8-12\nEvanghelia: Ev. Luca 9\, 57-62\nhttps://marius205099.
+ github.io/Ortodox/?d=20261128
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Cuv. Mărturisitor Arsenie de la Prislop \; S
+ f. Cuv. Mc. Ștefan cel Nou\; Sf. Mc. Irinarh (Dezlegare la peşte)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261129@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:† Sf. Mc. Paramon şi Filumen\; Sf. Cuv. Pitirun (Dezlegare la p
+ eşte) \; Duminica a 30-a după Rusalii\; Ap. Coloseni 3\, 12-16\; al Sf. 
+ Ap. Andrei: 1 Corinteni 4\, 9-16\; Ev. Luca 18\, 18-27 (Dregătorul bogat 
+ – Păzirea poruncilor) \; glas 1\, voscr. 4
+DESCRIPTION:Sf. Mc. Paramon şi Filumen\; Sf. Cuv. Pitirun (Dezlegare la p
+ eşte) \; Duminica a 30-a după Rusalii\; Ap. Coloseni 3\, 12-16\; al Sf. 
+ Ap. Andrei: 1 Corinteni 4\, 9-16\; Ev. Luca 18\, 18-27 (Dregătorul bogat 
+ – Păzirea poruncilor) \; glas 1\, voscr. 4\nApostolul: Ap. Coloseni 3\,
+  12-16\nEvanghelia: Ev. Luca 18\, 18-27\nhttps://marius205099.github.io/Or
+ todox/?d=20261129
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Mc. Paramon şi Filumen\; Sf. Cuv. Pitirun (Dezleg
+ are la peşte) \; Duminica a 30-a după Rusalii\; Ap. Coloseni 3\, 12-16\;
+  al Sf. Ap. Andrei: 1 Corinteni 4\, 9-16\; Ev. Luca 18\, 18-27 (Dregătoru
+ l bogat – 
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261130@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:† †) Sf. Ap. Andrei cel întâi chemat\, Ocrotitorul României
+ \; †) Sf. Ier. Andrei Şaguna\, mitropolitul Transilvaniei\; Sf. Ier. Fr
+ umentie\, episcopul Etiopiei (Dezlegare la peşte)
+DESCRIPTION:†) Sf. Ap. Andrei cel întâi chemat\, Ocrotitorul României
+ \; †) Sf. Ier. Andrei Şaguna\, mitropolitul Transilvaniei\; Sf. Ier. Fr
+ umentie\, episcopul Etiopiei (Dezlegare la peşte)\nZi liberă legală\nAp
+ ostolul: Ap. I Corinteni 4\, 9-16\nEvanghelia: Ev. Ioan 1\, 35-51\nhttps:/
+ /marius205099.github.io/Ortodox/?d=20261130
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Ap. Andrei cel întâi chemat\, Ocrotitorul R
+ omâniei\; †) Sf. Ier. Andrei Şaguna\, mitropolitul Transilvaniei\; Sf.
+  Ier. Frumentie\, episcopul Etiopiei (Dezlegare la peşte)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261201@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:† Sf. Anastasia\, mama Sf. Ier. Andrei Șaguna\; Sf. Proroc Naum
+ \; Sf. Filaret cel Milostiv (Tedeum. Dezlegare la pește)
+DESCRIPTION:† Sf. Anastasia\, mama Sf. Ier. Andrei Șaguna\; Sf. Proroc 
+ Naum\; Sf. Filaret cel Milostiv (Tedeum. Dezlegare la pește)\nZiua națio
+ nală a României\nZi liberă legală\nApostolul: Ap. I Timotei 5\, 11-21\
+ nEvanghelia: Ev. Luca 17\, 26-37\nhttps://marius205099.github.io/Ortodox/?
+ d=20261201
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: † Sf. Anastasia\, mama Sf. Ier. Andrei Șaguna\; Sf.
+  Proroc Naum\; Sf. Filaret cel Milostiv (Tedeum. Dezlegare la pește)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261202@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:†) Sf. Cuv. Paisie și Cleopa de la Sihăstria\; Sf. Proroc Avac
+ um\; Sf. Mc. Miropi\; Sf. Cuv. Porfirie Cavsocalivitul\; Sf. Ier. Solomon\
+ , arhiepiscopul Efesului (Dezlegare la pește)
+DESCRIPTION:†) Sf. Cuv. Paisie și Cleopa de la Sihăstria\; Sf. Proroc 
+ Avacum\; Sf. Mc. Miropi\; Sf. Cuv. Porfirie Cavsocalivitul\; Sf. Ier. Solo
+ mon\, arhiepiscopul Efesului (Dezlegare la pește)\nApostolul: Ap. I Timot
+ ei 5\, 22-25\; 6\, 1-11\nEvanghelia: Ev. Luca 18\, 15-17\; 26-30\nhttps://
+ marius205099.github.io/Ortodox/?d=20261202
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Cuv. Paisie și Cleopa de la Sihăstria\; Sf.
+  Proroc Avacum\; Sf. Mc. Miropi\; Sf. Cuv. Porfirie Cavsocalivitul\; Sf. I
+ er. Solomon\, arhiepiscopul Efesului (Dezlegare la pește)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261203@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:†) Sf. Cuv. Gheorghe de la Cernica și Căldărușani\; Sf. Pror
+ oc Sofonie (Dezlegare la peşte)
+DESCRIPTION:†) Sf. Cuv. Gheorghe de la Cernica și Căldărușani\; Sf. 
+ Proroc Sofonie (Dezlegare la peşte)\nApostolul: Ap. I Timotei 6\, 17-21\n
+ Evanghelia: Ev. Luca 18\, 31-34\nhttps://marius205099.github.io/Ortodox/?d
+ =20261203
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Cuv. Gheorghe de la Cernica și Căldărușan
+ i\; Sf. Proroc Sofonie (Dezlegare la peşte)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261204@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:† Sf. Mare Mc. Varvara\; Sf. Cuv. Ioan Damaschin
+DESCRIPTION:† Sf. Mare Mc. Varvara\; Sf. Cuv. Ioan Damaschin\nApostolul:
+  Ap. II Timotei 1\, 1-2\; 8-18\nEvanghelia: Ev. Luca 19\, 12-28\nhttps://m
+ arius205099.github.io/Ortodox/?d=20261204
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: † Sf. Mare Mc. Varvara\; Sf. Cuv. Ioan Damaschin
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261205@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:†) Sf. Cuv. Sava cel Sfințit (Dezlegare la peşte)
+DESCRIPTION:†) Sf. Cuv. Sava cel Sfințit (Dezlegare la peşte)\nApostol
+ ul: Ap. Galateni 5\, 22-26\; 6\, 1-2\nEvanghelia: Ev. Luca 10\, 19-21\nhtt
+ ps://marius205099.github.io/Ortodox/?d=20261205
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Cuv. Sava cel Sfințit (Dezlegare la peşte)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261206@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:† †) Sf. Ier. Nicolae\, arhiepiscopul Mirelor Lichiei\, făcă
+ torul de minuni (Dezlegare la peşte)\; Duminica a 27-a după Rusalii\; Ap
+ . Efeseni 6\, 10-17\; al Ierarhului: Evrei 13\, 17-21\; Ev. Luca 13\, 10-1
+ 7 (Tămăduirea femeii gârbove)\; a Ierarhului
+DESCRIPTION:†) Sf. Ier. Nicolae\, arhiepiscopul Mirelor Lichiei\, făcă
+ torul de minuni (Dezlegare la peşte)\; Duminica a 27-a după Rusalii\; Ap
+ . Efeseni 6\, 10-17\; al Ierarhului: Evrei 13\, 17-21\; Ev. Luca 13\, 10-1
+ 7 (Tămăduirea femeii gârbove)\; a Ierarhului: Luca 6\, 17-23\; glas 2\,
+  voscr. 5\nApostolul: Ap. Evrei 13\, 17-21\nEvanghelia: Ev. Luca 13\, 10-1
+ 7\nhttps://marius205099.github.io/Ortodox/?d=20261206
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Ier. Nicolae\, arhiepiscopul Mirelor Lichiei\
+ , făcătorul de minuni (Dezlegare la peşte)\; Duminica a 27-a după Rusa
+ lii\; Ap. Efeseni 6\, 10-17\; al Ierarhului: Evrei 13\, 17-21\; Ev. Luca 1
+ 3\, 10-17 (Tă
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261207@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:† †) Sf. Mc. Filofteia de la Curtea de Argeş\; Sf. Ier. Ambro
+ zie\, episcopul Mediolanului (Dezlegare la peşte)
+DESCRIPTION:†) Sf. Mc. Filofteia de la Curtea de Argeş\; Sf. Ier. Ambro
+ zie\, episcopul Mediolanului (Dezlegare la peşte)\nApostolul: Ap. II Timo
+ tei 2\, 20-26\nEvanghelia: Ev. Luca 19\, 37-44\nhttps://marius205099.githu
+ b.io/Ortodox/?d=20261207
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Mc. Filofteia de la Curtea de Argeş\; Sf. Ie
+ r. Ambrozie\, episcopul Mediolanului (Dezlegare la peşte)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261208@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Sf. Cuv. Patapie\; Sf. Ap. Cezar\, Tihic și Onisifor
+DESCRIPTION:Sf. Cuv. Patapie\; Sf. Ap. Cezar\, Tihic și Onisifor\nApostol
+ ul: Ap. II Timotei 3\, 16-17\; 4\, 1-4\nEvanghelia: Ev. Luca 19\, 45-48\nh
+ ttps://marius205099.github.io/Ortodox/?d=20261208
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Cuv. Patapie\; Sf. Ap. Cezar\, Tihic și Onisifor
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261209@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Zămislirea Sfintei Fecioare Maria de către Sf. Ana\; Sf. Proroci
+ ță Ana\, mama Prorocului Samuel
+DESCRIPTION:Zămislirea Sfintei Fecioare Maria de către Sf. Ana\; Sf. Pro
+ rociță Ana\, mama Prorocului Samuel\nApostolul: Ap. II Timotei 4\, 9-22\
+ nEvanghelia: Ev. Luca 20\, 1-8\nhttps://marius205099.github.io/Ortodox/?d=
+ 20261209
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Zămislirea Sfintei Fecioare Maria de către Sf. Ana\;
+  Sf. Prorociță Ana\, mama Prorocului Samuel
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261210@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Sf. Mc. Mina\, Ermoghen și Evgraf
+DESCRIPTION:Sf. Mc. Mina\, Ermoghen și Evgraf\nApostolul: Ap. Tit 1\, 5-1
+ 4\nEvanghelia: Ev. Luca 20\, 9-18\nhttps://marius205099.github.io/Ortodox/
+ ?d=20261210
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Mc. Mina\, Ermoghen și Evgraf
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261211@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Sf. Cuv. Daniil Stâlpnicul și Luca cel Nou
+DESCRIPTION:Sf. Cuv. Daniil Stâlpnicul și Luca cel Nou\nApostolul: Ap. T
+ it 1\, 15-16\; 2\, 1-10\nEvanghelia: Ev. Luca 20\, 19-26\nhttps://marius20
+ 5099.github.io/Ortodox/?d=20261211
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Cuv. Daniil Stâlpnicul și Luca cel Nou
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261212@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:†) Sf. Ier. Spiridon\, episcopul Trimitundei\, făcătorul de mi
+ nuni (Dezlegare la peşte)
+DESCRIPTION:†) Sf. Ier. Spiridon\, episcopul Trimitundei\, făcătorul d
+ e minuni (Dezlegare la peşte)\nApostolul: Ap. Efeseni 1\, 16-23\nEvanghel
+ ia: Ev. Luca 12\, 32-40\nhttps://marius205099.github.io/Ortodox/?d=2026121
+ 2
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Ier. Spiridon\, episcopul Trimitundei\, făc
+ ătorul de minuni (Dezlegare la peşte)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261213@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:† †) Sf. Ier. Dosoftei\, mitropolitul Moldovei\; † Sf. Mari 
+ Mc. Eustratie\, Auxentie\, Evghenie\, Mardarie şi Orest\; Sf. Mc. Lucia d
+ in Siracuza (Dezlegare la peşte)\; Duminica a 28-a după Rusalii (a Sf. S
+ trămoşi după trup ai Domnului)\; Ap. Sf. St
+DESCRIPTION:†) Sf. Ier. Dosoftei\, mitropolitul Moldovei\; † Sf. Mari 
+ Mc. Eustratie\, Auxentie\, Evghenie\, Mardarie şi Orest\; Sf. Mc. Lucia d
+ in Siracuza (Dezlegare la peşte)\; Duminica a 28-a după Rusalii (a Sf. S
+ trămoşi după trup ai Domnului)\; Ap. Sf. Strămoşi: Coloseni 3\, 4-11\
+ ; Ev. Luca 14\, 16-24 (Pilda celor poftiţi la cină)\; glas 3\, voscr. 6\
+ nApostolul: Ap. Coloseni 3\, 4-11\nEvanghelia: Ev. Luca 14\, 16-24\nhttps:
+ //marius205099.github.io/Ortodox/?d=20261213
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Ier. Dosoftei\, mitropolitul Moldovei\; † S
+ f. Mari Mc. Eustratie\, Auxentie\, Evghenie\, Mardarie şi Orest\; Sf. Mc.
+  Lucia din Siracuza (Dezlegare la peşte)\; Duminica a 28-a după Rusalii 
+ (a Sf. Străm
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261214@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:Sf. Mc. Tirs\, Calinic\, Filimon şi Apolonie
+DESCRIPTION:Sf. Mc. Tirs\, Calinic\, Filimon şi Apolonie\nApostolul: Ap. 
+ Evrei 3\, 5-11\; 17-19\nEvanghelia: Ev. Luca 20\, 27-44\nhttps://marius205
+ 099.github.io/Ortodox/?d=20261214
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Mc. Tirs\, Calinic\, Filimon şi Apolonie
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261215@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Sf. Sfințit Mc. Elefterie\, episcopul Iliriei\; Sf. Mc. Antia și
+  Suzana\; Sf. Cuv. Pavel din Latro
+DESCRIPTION:Sf. Sfințit Mc. Elefterie\, episcopul Iliriei\; Sf. Mc. Antia
+  și Suzana\; Sf. Cuv. Pavel din Latro\nApostolul: Ap. Evrei 4\, 1-13\nEva
+ nghelia: Ev. Luca 21\, 12-19\nhttps://marius205099.github.io/Ortodox/?d=20
+ 261215
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Sfințit Mc. Elefterie\, episcopul Iliriei\; Sf. M
+ c. Antia și Suzana\; Sf. Cuv. Pavel din Latro
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261216@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:Sf. Proroc Agheu\; Sf. Teofana împărăteasa
+DESCRIPTION:Sf. Proroc Agheu\; Sf. Teofana împărăteasa\nApostolul: Ap. 
+ Evrei 5\, 11-14\; 6\, 1-8\nEvanghelia: Ev. Luca 21\, 5-8\; 10-11\; 20-24\n
+ https://marius205099.github.io/Ortodox/?d=20261216
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Proroc Agheu\; Sf. Teofana împărăteasa
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261217@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Sf. Proroc Daniel și Sfinții trei tineri: Anania\, Azaria și Mi
+ sail
+DESCRIPTION:Sf. Proroc Daniel și Sfinții trei tineri: Anania\, Azaria ș
+ i Misail\nApostolul: Ap. Evrei 7\, 1-6\nEvanghelia: Ev. Luca 21\, 28-33\nh
+ ttps://marius205099.github.io/Ortodox/?d=20261217
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Proroc Daniel și Sfinții trei tineri: Anania\, A
+ zaria și Misail
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261218@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:†) Sf. Cuv. Daniil Sihastrul\; Sf. Mc. Sebastian și Zoe\; Sf. I
+ er. Modest\, arhiepiscopul Ierusalimului
+DESCRIPTION:†) Sf. Cuv. Daniil Sihastrul\; Sf. Mc. Sebastian și Zoe\; S
+ f. Ier. Modest\, arhiepiscopul Ierusalimului\nApostolul: Ap. Evrei 7\, 18-
+ 25\nEvanghelia: Ev. Luca 21\, 37-38\; 22\, 1-8\nhttps://marius205099.githu
+ b.io/Ortodox/?d=20261218
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Cuv. Daniil Sihastrul\; Sf. Mc. Sebastian și
+  Zoe\; Sf. Ier. Modest\, arhiepiscopul Ierusalimului
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261219@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:† Sf. Cuv. Muceniță Evloghia de la Samurcășești\; Sf. Mc. B
+ onifatie\; Sf. Aglaia\; Sf. Ier. Grichentie\, episcopul Etiopiei (Dezlegar
+ e la peşte)
+DESCRIPTION:† Sf. Cuv. Muceniță Evloghia de la Samurcășești\; Sf. M
+ c. Bonifatie\; Sf. Aglaia\; Sf. Ier. Grichentie\, episcopul Etiopiei (Dezl
+ egare la peşte)\nApostolul: Ap. Efeseni 2\, 11-13\nEvanghelia: Ev. Luca 1
+ 3\, 19-29\nhttps://marius205099.github.io/Ortodox/?d=20261219
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: † Sf. Cuv. Muceniță Evloghia de la Samurcășești
+ \; Sf. Mc. Bonifatie\; Sf. Aglaia\; Sf. Ier. Grichentie\, episcopul Etiopi
+ ei (Dezlegare la peşte)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261220@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:† Înainte-prăznuirea Naşterii Domnului\; Sf. Sfinţit Mc. Ign
+ atie Teoforul\, episcopul Antiohiei\; †) Sf. Cuv. Serafim cel Răbdător
+  de la Sâmbăta de Sus\; Duminica dinaintea Naşterii Domnului (a Sf. Pă
+ rinţi după trup ai Domnului)\; Ap. Evrei 11\, 
+DESCRIPTION:Înainte-prăznuirea Naşterii Domnului\; Sf. Sfinţit Mc. Ign
+ atie Teoforul\, episcopul Antiohiei\; †) Sf. Cuv. Serafim cel Răbdător
+  de la Sâmbăta de Sus\; Duminica dinaintea Naşterii Domnului (a Sf. Pă
+ rinţi după trup ai Domnului)\; Ap. Evrei 11\, 9-10\; 32-40\; Ev. Matei 1
+ \, 1-25 (Genealogia Mântuitorului)\; glas 4\, voscr. 7\nApostolul: Ap. Ev
+ rei 11\, 9-10\; 32-40\nEvanghelia: Ev. Matei 1\, 1-25\nhttps://marius20509
+ 9.github.io/Ortodox/?d=20261220
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Înainte-prăznuirea Naşterii Domnului\; Sf. Sfinţit
+  Mc. Ignatie Teoforul\, episcopul Antiohiei\; †) Sf. Cuv. Serafim cel R
+ ăbdător de la Sâmbăta de Sus\; Duminica dinaintea Naşterii Domnului (
+ a Sf. Părinţi 
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261221@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Sf. Mc. Iuliana din Nicomidia\; Sf. Mc. Temistocle
+DESCRIPTION:Sf. Mc. Iuliana din Nicomidia\; Sf. Mc. Temistocle\nApostolul:
+  Ap. Evrei 8\, 7-13\nEvanghelia: Ev. Marcu 8\, 11-21\nhttps://marius205099
+ .github.io/Ortodox/?d=20261221
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Mc. Iuliana din Nicomidia\; Sf. Mc. Temistocle
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261222@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:†) Sf. Ier. Petru Movilă\, mitropolitul Kievului\; Sf. Mare Mc.
+  Anastasia
+DESCRIPTION:†) Sf. Ier. Petru Movilă\, mitropolitul Kievului\; Sf. Mare
+  Mc. Anastasia\nApostolul: Ap. Evrei 9\, 8-23\nEvanghelia: Ev. Marcu 8\, 2
+ 2-26\nhttps://marius205099.github.io/Ortodox/?d=20261222
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Sf. Ier. Petru Movilă\, mitropolitul Kievului\; 
+ Sf. Mare Mc. Anastasia
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261223@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:† Sf. Cuv. Antonina de la Tismana\; Sfinţii 10 Mucenici din Cre
+ ta\; Sf. Ier. Pavel\, arhiepiscopul Neocezareei
+DESCRIPTION:† Sf. Cuv. Antonina de la Tismana\; Sfinţii 10 Mucenici din
+  Creta\; Sf. Ier. Pavel\, arhiepiscopul Neocezareei\nApostolul: Ap. Evrei 
+ 10\, 1-18\nEvanghelia: Ev. Marcu 8\, 30-34\nhttps://marius205099.github.io
+ /Ortodox/?d=20261223
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: † Sf. Cuv. Antonina de la Tismana\; Sfinţii 10 Muce
+ nici din Creta\; Sf. Ier. Pavel\, arhiepiscopul Neocezareei
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261224@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Sf. Cuv. Mc. Eugenia (Ajunul Crăciunului)
+DESCRIPTION:Sf. Cuv. Mc. Eugenia (Ajunul Crăciunului)\nApostolul: Ap. Evr
+ ei 10\, 35-39\; 11\, 1-7\nEvanghelia: Ev. Marcu 9\, 10-15\nhttps://marius2
+ 05099.github.io/Ortodox/?d=20261224
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Cuv. Mc. Eugenia (Ajunul Crăciunului)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261225@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:† (†) Nașterea Domnului (Crăciunul. Harți)
+DESCRIPTION:(†) Nașterea Domnului (Crăciunul. Harți)\nPrima zi de Cr
+ ăciun\nZi liberă legală\nApostolul: Ap. Galateni 4\, 4-7\nEvanghelia: E
+ v. Matei 2\, 1-12\nhttps://marius205099.github.io/Ortodox/?d=20261225
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: (†) Nașterea Domnului (Crăciunul. Harți)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261226@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:† †) Soborul Maicii Domnului\; †) Sf. Cuv. Nicodim cel Sfin
+ ţit de la Tismana\; †) Sf. Cuv. Mc. Gherasim de la Tismana
+DESCRIPTION:†) Soborul Maicii Domnului\; †) Sf. Cuv. Nicodim cel Sfin
+ ţit de la Tismana\; †) Sf. Cuv. Mc. Gherasim de la Tismana\nA doua zi d
+ e Crăciun\nZi liberă legală\nApostolul: Ap. Evrei 2\, 11-18\nEvanghelia
+ : Ev. Matei 2\, 13-23\nhttps://marius205099.github.io/Ortodox/?d=20261226
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: †) Soborul Maicii Domnului\; †) Sf. Cuv. Nicodim c
+ el Sfinţit de la Tismana\; †) Sf. Cuv. Mc. Gherasim de la Tismana
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261227@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:† † Sf. Ap.\, întâiul Mc. şi Arhidiacon Ştefan\; Sf. Cuv. 
+ Teodor Mărturisitorul\; Duminica după Nașterea Domnului (a Sfinților I
+ osif Logodnicul\, David Prorocul și Iacob\, rudenia Domnului)\; Ap. Galat
+ eni 1\, 11-19\; al Sfântului: Fapte 6\, 8-15\; 7\,
+DESCRIPTION:† Sf. Ap.\, întâiul Mc. şi Arhidiacon Ştefan\; Sf. Cuv. 
+ Teodor Mărturisitorul\; Duminica după Nașterea Domnului (a Sfinților I
+ osif Logodnicul\, David Prorocul și Iacob\, rudenia Domnului)\; Ap. Galat
+ eni 1\, 11-19\; al Sfântului: Fapte 6\, 8-15\; 7\, 1-5\, 47-60\; Ev. Mate
+ i 2\, 13-23 (Fuga în Egipt)\; a Sfântului: Matei 21\, 33-44\; glas 5\, v
+ oscr. 8\nApostolul: Ap. Galateni 1\, 11-19\nEvanghelia: Ev. Matei 2\, 13-2
+ 3\nhttps://marius205099.github.io/Ortodox/?d=20261227
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: † Sf. Ap.\, întâiul Mc. şi Arhidiacon Ştefan\; S
+ f. Cuv. Teodor Mărturisitorul\; Duminica după Nașterea Domnului (a Sfin
+ ților Iosif Logodnicul\, David Prorocul și Iacob\, rudenia Domnului)\; A
+ p. Galateni 1\, 
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261228@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:Sfinţii 20.000 de Mucenici din Nicomidia
+DESCRIPTION:Sfinţii 20.000 de Mucenici din Nicomidia\nApostolul: Ap. Evre
+ i 11\, 17-31\nEvanghelia: Ev. Marcu 9\, 42-50\; 10\, 1\nhttps://marius2050
+ 99.github.io/Ortodox/?d=20261228
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sfinţii 20.000 de Mucenici din Nicomidia
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261229@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Sfinții 14.000 de prunci uciși din porunca lui Irod\; Sf. Cuv. M
+ arcel și Tadeu
+DESCRIPTION:Sfinții 14.000 de prunci uciși din porunca lui Irod\; Sf. Cu
+ v. Marcel și Tadeu\nApostolul: Ap. Evrei 12\, 25-29\nEvanghelia: Ev. Marc
+ u 10\, 2-12\nhttps://marius205099.github.io/Ortodox/?d=20261229
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sfinții 14.000 de prunci uciși din porunca lui Irod\
+ ; Sf. Cuv. Marcel și Tadeu
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261230@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:Sf. Mc. Anisia fecioara (Harți)
+DESCRIPTION:Sf. Mc. Anisia fecioara (Harți)\nApostolul: Ap. Iacov 1\, 1-1
+ 8\nEvanghelia: Ev. Marcu 10\, 11-16\nhttps://marius205099.github.io/Ortodo
+ x/?d=20261230
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Sf. Mc. Anisia fecioara (Harți)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:20261231@marius205099.github.io-ortodox
+DTSTAMP:20261108T183153Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Odovania praznicului Nașterii Domnului\; † Sf. Mc. Hermes\; Sf.
+  Cuv. Melania Romana (Slujba la cumpăna dintre ani)
+DESCRIPTION:Odovania praznicului Nașterii Domnului\; † Sf. Mc. Hermes\;
+  Sf. Cuv. Melania Romana (Slujba la cumpăna dintre ani)\nApostolul: Ap. I
+ acov 1\, 19-27\nEvanghelia: Ev. Marcu 10\, 17-27\nhttps://marius205099.git
+ hub.io/Ortodox/?d=20261231
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Mâine: Odovania praznicului Nașterii Domnului\; † Sf. Mc. 
+ Hermes\; Sf. Cuv. Melania Romana (Slujba la cumpăna dintre ani)
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

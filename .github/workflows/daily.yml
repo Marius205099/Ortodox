@@ -1,0 +1,65 @@
+name: Calendar zilnic
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "0 6 * * *"  # 08:00/09:00 ora României: actualizează datele și programează notificarea de la 20:00
+  workflow_dispatch:
+    inputs:
+      notify:
+        description: "Programează și notificarea ntfy"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Descarcă calendarul de pe calendar.patriarhia.ro
+        id: fetch
+        continue-on-error: true  # dacă sursa nu răspunde, rămân datele salvate anterior
+        run: python scripts/fetch_calendar.py
+
+      - name: Salvează datele noi în repo
+        if: steps.fetch.outcome == 'success'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          # pe 1 ale lunii se face oricum un commit, ca GitHub să nu oprească programarea după 60 de zile de inactivitate
+          if git diff --cached --quiet -- data/[0-9]* && [ "$(date -u +%d)" != "01" ]; then
+            echo "Nicio schimbare în calendar."
+          else
+            git commit -m "Actualizare calendar $(date -u +%F)"
+            git push
+          fi
+
+      - name: Programează notificarea de la 20:00
+        if: github.event_name == 'schedule' || inputs.notify
+        run: python scripts/notify.py
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deploy
+        uses: actions/deploy-pages@v4
