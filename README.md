@@ -12,5 +12,5 @@ Site: https://marius205099.github.io/Ortodox/
 ## Notificări
 
 1. **ntfy** (recomandat): instalează aplicația ntfy și abonează-te la `ortodox-marius205099`.
-2. **Browser**: butonul „Activează notificările” de pe site (merge cât site-ul e deschis sau instalat ca aplicație).
+2. **Direct de la site (Web Push)**: pe iPhone, adaugă site-ul pe ecranul principal, deschide-l de acolo și apasă „Activează notificările”. Codul afișat se pune în secretul `PUSH_SUBSCRIPTIONS` al repo-ului. `.github/workflows/push.yml` îl trimite la 20:00 fix, semnat cu secretul `VAPID_PRIVATE_KEY`.
 3. **Calendar**: abonare la `data/ortodox.ics`, cu memento la 20:00 în seara dinainte.

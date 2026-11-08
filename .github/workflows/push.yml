@@ -1,0 +1,29 @@
+name: Notificare 20:00
+
+on:
+  schedule:
+    # două ore posibile, ca să meargă și pe ora de vară, și pe cea de iarnă;
+    # scriptul o alege pe cea potrivită și așteaptă până la 20:00 fix
+    - cron: "30 15 * * *"
+    - cron: "30 16 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    timeout-minutes: 200
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install "pywebpush>=2,<3"
+      - name: Trimite notificarea despre ziua de mâine
+        env:
+          SCHEDULE: ${{ github.event.schedule }}
+          VAPID_PRIVATE_KEY: ${{ secrets.VAPID_PRIVATE_KEY }}
+          PUSH_SUBSCRIPTIONS: ${{ secrets.PUSH_SUBSCRIPTIONS }}
+        run: python scripts/push.py ${{ github.event_name == 'workflow_dispatch' && '--now' || '' }}

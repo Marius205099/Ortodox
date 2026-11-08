@@ -66,12 +66,30 @@
         <p class="small">Pe calculator: <a id="ntfy-web" target="_blank" rel="noopener">deschide în browser</a> și permite notificările.</p>
       </div>
 
-      <div class="opt">
-        <h3><span class="num">2</span> În acest browser</h3>
-        <p>Primești notificarea la 20:00 cât timp site-ul e deschis (sau instalat ca aplicație pe Android/calculator). Dacă îl deschizi mai târziu în seară, o primești atunci.</p>
+      <div class="opt" id="opt-push">
+        <h3><span class="num">2</span> Direct de la site, fără aplicații</h3>
+        <p>Notificarea vine cu iconița Ortodox, chiar dacă site-ul e închis. Pe iPhone e nevoie de iOS 16.4 sau mai nou.</p>
+        <div id="ios-home" class="note" hidden>
+          <strong>Pe iPhone, întâi adaugă site-ul pe ecranul principal:</strong>
+          <ol>
+            <li>În Safari, apasă butonul <strong>Partajare</strong> (pătratul cu săgeată în sus).</li>
+            <li>Alege <strong>Adaugă pe ecranul principal</strong>, apoi <strong>Adaugă</strong>.</li>
+            <li>Deschide <strong>Ortodox</strong> de pe ecranul principal și revino aici.</li>
+          </ol>
+        </div>
         <button id="enable" class="btn" type="button">Activează notificările</button>
-        <button id="test" class="btn ghost" type="button" hidden>Trimite un test</button>
+        <button id="test" class="btn ghost" type="button" hidden>Test pe acest telefon</button>
         <p id="enable-status" class="small" role="status"></p>
+        <div id="code-box" class="note" hidden>
+          <strong>Ultimul pas, o singură dată:</strong> copiază codul de mai jos și pune-l în GitHub.
+          <textarea id="sub-code" readonly rows="4"></textarea>
+          <button id="copy-code" class="btn" type="button">Copiază codul</button>
+          <ol>
+            <li>Deschide <a href="https://github.com/Marius205099/Ortodox/settings/secrets/actions" target="_blank" rel="noopener">setările repo-ului pe GitHub</a> și apasă <strong>New repository secret</strong> (sau editează <code>PUSH_SUBSCRIPTIONS</code> dacă există).</li>
+            <li>La <strong>Name</strong> scrie <code>PUSH_SUBSCRIPTIONS</code>, la <strong>Secret</strong> lipește codul, apoi <strong>Add secret</strong>.</li>
+          </ol>
+          <p class="small">Pentru mai multe telefoane, pune codurile unul sub altul în același secret.</p>
+        </div>
       </div>
 
       <div class="opt">

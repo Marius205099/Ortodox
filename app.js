@@ -1,9 +1,7 @@
 "use strict";
 
 const NTFY_TOPIC = "ortodox-marius205099";
-const NOTIFY_HOUR = 20;
-const STATE_CACHE = "ortodox-state";
-const STATE_KEY = "./__notif-state";
+const VAPID_PUBLIC_KEY = "BKKLpAXOxlHjCDeuzpBCUEbMKD13yHcaEdE9Dup3QAFNtM9esibIKaMMoenKXPBqe4Ct7OeMOFGzhmwQQmDOr7E";
 
 const $ = (id) => document.getElementById(id);
 const months = new Map();
@@ -94,90 +92,71 @@ function markActive() {
   }
 }
 
-// ---------- notificări în browser ----------
+// ---------- notificări push ----------
 let swReg = null;
 
-async function readState() {
-  try {
-    const r = await (await caches.open(STATE_CACHE)).match(STATE_KEY);
-    return r ? await r.json() : {};
-  } catch { return {}; }
-}
-async function writeState(s) {
-  try {
-    await (await caches.open(STATE_CACHE)).put(STATE_KEY, new Response(JSON.stringify(s), { headers: { "Content-Type": "application/json" } }));
-  } catch { /* stocare indisponibilă */ }
+const isIOS = () => /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+const isStandalone = () => window.matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
+const pushSupported = () => "serviceWorker" in navigator && "PushManager" in window && "Notification" in window;
+
+function b64ToBytes(b64) {
+  const s = atob((b64 + "=".repeat((4 - (b64.length % 4)) % 4)).replace(/-/g, "+").replace(/_/g, "/"));
+  return Uint8Array.from(s, (c) => c.charCodeAt(0));
 }
 
-function prefsOn() {
-  try { return localStorage.getItem("ortodox-notif") === "1"; } catch { return false; }
-}
-function setPrefs(on) {
-  try { localStorage.setItem("ortodox-notif", on ? "1" : "0"); } catch { /* ignorat */ }
+function showCode(sub) {
+  $("sub-code").value = JSON.stringify(sub);
+  $("code-box").hidden = false;
 }
 
-async function notifyTomorrow(force = false) {
-  if (!("Notification" in window) || Notification.permission !== "granted") return;
-  const now = new Date();
-  const todayKey = ymd(now);
-  if (!force) {
-    if (!prefsOn() || now.getHours() < NOTIFY_HOUR) return;
-    const st = await readState();
-    if (st.lastShown === todayKey) return;
+async function updatePushUI() {
+  const status = $("enable-status");
+  $("ios-home").hidden = !(isIOS() && !isStandalone());
+  if (!pushSupported()) {
+    $("enable").hidden = true;
+    status.textContent = isIOS() && !isStandalone()
+      ? "Adaugă site-ul pe ecranul principal și deschide-l de acolo; apoi butonul de activare apare aici."
+      : "Acest browser nu suportă notificări push. Folosește varianta 1 sau 3.";
+    return;
   }
-  const t = addDays(now, 1);
-  const day = await getDay(ymd(t));
-  const title = `Mâine, ${fmtShort(t)}`;
-  const body = day
-    ? day.title + (day.holiday ? "\nZi liberă legală" : "")
-    : "Deschide calendarul pentru detalii.";
-  const opts = { body, icon: "icons/icon-192.png", badge: "icons/icon-192.png", tag: `maine-${ymd(t)}`, data: { url: `./?d=${ymd(t)}` } };
-  if (swReg) await swReg.showNotification(title, opts);
-  else new Notification(title, opts);
-  if (!force) await writeState({ lastShown: todayKey });
-}
-
-function updateBell() {
-  const on = prefsOn() && "Notification" in window && Notification.permission === "granted";
+  $("enable").hidden = false;
+  const sub = swReg && (await swReg.pushManager.getSubscription());
+  const on = !!sub && Notification.permission === "granted";
   $("bell").classList.toggle("on", on);
   $("bell-label").textContent = on ? "Notificări active" : "Notificări 20:00";
   $("test").hidden = !on;
-  $("enable").textContent = on ? "Dezactivează" : "Activează notificările";
+  $("enable").textContent = on ? "Arată din nou codul" : "Activează notificările";
+  if (on && !status.textContent) status.textContent = "Notificările sunt activate pe acest dispozitiv.";
 }
 
-async function toggleNotifications() {
+async function enablePush() {
   const status = $("enable-status");
-  if (!("Notification" in window)) {
-    status.textContent = "Acest browser nu suportă notificări. Pe iPhone, adaugă întâi site-ul pe ecranul principal (Partajare → Adaugă pe ecranul principal) sau folosește varianta 1.";
-    return;
-  }
-  if (prefsOn() && Notification.permission === "granted") {
-    setPrefs(false);
-    status.textContent = "Notificările din browser au fost oprite.";
-    updateBell();
-    return;
-  }
-  const perm = await Notification.requestPermission();
-  if (perm !== "granted") {
-    status.textContent = "Permisiunea a fost refuzată. O poți reactiva din setările browserului pentru acest site.";
-    return;
-  }
-  setPrefs(true);
   try {
-    if (swReg && "periodicSync" in swReg) {
-      await swReg.periodicSync.register("ortodox-maine", { minInterval: 6 * 60 * 60 * 1000 });
+    const perm = await Notification.requestPermission();
+    if (perm !== "granted") {
+      status.textContent = "Permisiunea a fost refuzată. Pe iPhone: Configurări → Notificări → Ortodox → Permite notificările.";
+      return;
     }
-  } catch { /* disponibil doar pentru aplicații instalate în Chrome */ }
-  status.textContent = `Gata! Vei primi notificarea la ${NOTIFY_HOUR}:00. Pentru siguranță, folosește și varianta 1.`;
-  updateBell();
-  notifyTomorrow();
+    swReg = swReg || (await navigator.serviceWorker.ready);
+    let sub = await swReg.pushManager.getSubscription();
+    if (!sub) {
+      sub = await swReg.pushManager.subscribe({ userVisibleOnly: true, applicationServerKey: b64ToBytes(VAPID_PUBLIC_KEY) });
+    }
+    showCode(sub);
+    status.textContent = "Notificările sunt activate. Mai e un singur pas, mai jos.";
+  } catch (e) {
+    status.textContent = `Nu am putut activa notificările: ${e.message || e}`;
+  }
+  updatePushUI();
 }
 
-function scheduleCheck() {
-  // verifică la fiecare minut; la 20:00 (sau prima deschidere după) trimite notificarea o dată pe zi
-  notifyTomorrow();
-  setInterval(() => notifyTomorrow(), 60 * 1000);
-  document.addEventListener("visibilitychange", () => { if (!document.hidden) notifyTomorrow(); });
+async function testPush() {
+  const t = addDays(new Date(), 1);
+  const day = await getDay(ymd(t));
+  await swReg.showNotification(`Mâine, ${fmtShort(t)}`, {
+    body: day ? day.title : "Deschide calendarul pentru detalii.",
+    icon: "icons/icon-192.png", tag: "test", data: { url: `./?d=${ymd(t)}` },
+  });
 }
 
 // ---------- pornire ----------
@@ -189,8 +168,13 @@ async function init() {
   $("next").onclick = () => renderDay(addDays(current, 1));
   $("date").onchange = (e) => { if (e.target.value) renderDay(parseYmd(e.target.value.replaceAll("-", ""))); };
   $("bell").onclick = () => $("notif").scrollIntoView({ behavior: "smooth" });
-  $("enable").onclick = toggleNotifications;
-  $("test").onclick = () => notifyTomorrow(true);
+  $("enable").onclick = enablePush;
+  $("test").onclick = testPush;
+  $("copy-code").onclick = async () => {
+    const box = $("sub-code");
+    try { await navigator.clipboard.writeText(box.value); } catch { box.select(); document.execCommand("copy"); }
+    $("copy-code").textContent = "Copiat ✓";
+  };
 
   $("topic").textContent = NTFY_TOPIC;
   $("ntfy-web").href = `https://ntfy.sh/${NTFY_TOPIC}`;
@@ -210,8 +194,7 @@ async function init() {
   if ("serviceWorker" in navigator) {
     try { swReg = await navigator.serviceWorker.register("sw.js"); await navigator.serviceWorker.ready; } catch { swReg = null; }
   }
-  updateBell();
-  scheduleCheck();
+  updatePushUI();
 
   // la miezul nopții, reîmprospătează cardurile Azi/Mâine
   let lastKey = ymd(new Date());

@@ -30,6 +30,7 @@
 }
 
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 html { -webkit-text-size-adjust: 100%; }
 body {
   margin: 0;
@@ -140,6 +141,12 @@ a { color: var(--red-ink); }
 .topic { display: inline-flex; align-items: center; gap: 6px; flex-wrap: wrap; }
 .topic code { background: var(--bg); border: 1px solid var(--line); border-radius: 6px; padding: 2px 8px; font-size: 15px; word-break: break-all; }
 .topic button { border: 0; background: none; color: var(--red-ink); font: 600 14px var(--sans); cursor: pointer; padding: 4px; }
+.note { background: var(--bg); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; margin: 10px 0; }
+.note ol { margin-bottom: 4px; }
+.note textarea {
+  display: block; width: 100%; margin: 10px 0 8px; font: 12px/1.4 ui-monospace, Menlo, monospace;
+  background: var(--paper); color: var(--ink); border: 1px solid var(--line); border-radius: 8px; padding: 8px; resize: vertical;
+}
 .btn {
   display: inline-block; border: 1px solid var(--red-ink); background: var(--red-ink); color: #fff;
   border-radius: 10px; padding: 10px 16px; font: 600 15px var(--sans); cursor: pointer; text-decoration: none; margin: 2px 6px 4px 0;
